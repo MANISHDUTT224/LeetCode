@@ -1,6 +1,9 @@
 class Solution {
 public:
     bool lemonadeChange(vector<int>& bills) {
+        cin.tie(0);
+        cout.tie(0);
+        ios::sync_with_stdio(false);
         unordered_map<int,int>mp;
         for(int i=0;i<bills.size();i++){
             if(bills[i]==5){
