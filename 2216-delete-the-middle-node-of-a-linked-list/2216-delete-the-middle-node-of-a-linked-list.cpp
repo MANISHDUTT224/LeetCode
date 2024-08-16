@@ -11,6 +11,9 @@
 class Solution {
 public:
     ListNode* deleteMiddle(ListNode* head) {
+        cin.tie(0);
+        cout.tie(0);
+        ios::sync_with_stdio(false);
         if(head->next==nullptr){
             return nullptr;
         }
