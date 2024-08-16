@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MANISHDUTT224/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0838-design-linked-list](https://github.com/MANISHDUTT224/LeetCode/tree/master/0838-design-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/MANISHDUTT224/LeetCode/tree/master/0890-lemonade-change) |
+## Linked List
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/MANISHDUTT224/LeetCode/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
