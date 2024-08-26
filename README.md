@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/MANISHDUTT224/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/MANISHDUTT224/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MANISHDUTT224/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Design
 |  |
@@ -108,8 +109,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/MANISHDUTT224/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/MANISHDUTT224/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/MANISHDUTT224/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/MANISHDUTT224/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
