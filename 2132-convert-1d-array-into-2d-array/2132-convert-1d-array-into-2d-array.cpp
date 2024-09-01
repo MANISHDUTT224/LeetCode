@@ -1,7 +1,9 @@
 class Solution {
 public:
     vector<vector<int>> construct2DArray(vector<int>& original, int m, int n) {
-       
+       cin.tie(0);
+       cout.tie(0);
+       ios::sync_with_stdio(false);
         vector<vector<int>> ans;
         if((m*n)<original.size()){
             return ans;
