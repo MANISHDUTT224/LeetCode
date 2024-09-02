@@ -1,6 +1,9 @@
 class Solution {
 public:
 long chalkReplacer(vector<int>& chalk, long k) {
+        cin.tie(0);
+        cout.tie(0);
+        ios::sync_with_stdio(false);
         long s=0;
         for(int i:chalk){
             s+=i;
