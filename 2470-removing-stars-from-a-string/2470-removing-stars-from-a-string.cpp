@@ -1,6 +1,9 @@
 class Solution {
 public:
     string removeStars(string s) {
+        cin.tie(0);
+        cout.tie(0);
+        ios::sync_with_stdio(false);
         stack<char> s1;
         for(int i=0;i<s.size();i++){
             if(s[i]=='*'){
