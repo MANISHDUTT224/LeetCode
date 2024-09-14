@@ -35,9 +35,7 @@ private:
     }    
 public:
     void solveSudoku(vector<vector<char>>& board) {
-        cin.tie(0);
-        cout.tie(0);
-        ios::sync_with_stdio(false);
+      
         solve(board);
     }
 };
