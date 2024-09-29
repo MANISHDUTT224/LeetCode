@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/MANISHDUTT224/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MANISHDUTT224/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/MANISHDUTT224/LeetCode/tree/master/0061-rotate-list) |
 | [0328-odd-even-linked-list](https://github.com/MANISHDUTT224/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/MANISHDUTT224/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/MANISHDUTT224/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [0838-design-linked-list](https://github.com/MANISHDUTT224/LeetCode/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/MANISHDUTT224/LeetCode/tree/master/0859-design-circular-deque) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/MANISHDUTT224/LeetCode/tree/master/0037-sudoku-solver) |
 | [0264-ugly-number-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0432-all-oone-data-structure](https://github.com/MANISHDUTT224/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0906-walking-robot-simulation](https://github.com/MANISHDUTT224/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/MANISHDUTT224/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/MANISHDUTT224/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -297,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/MANISHDUTT224/LeetCode/tree/master/0859-design-circular-deque) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/MANISHDUTT224/LeetCode/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
