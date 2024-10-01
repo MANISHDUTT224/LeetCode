@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/MANISHDUTT224/LeetCode/tree/master/0037-sudoku-solver) |
 | [0179-largest-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/MANISHDUTT224/LeetCode/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/MANISHDUTT224/LeetCode/tree/master/0221-maximal-square) |
 | [0539-minimum-time-difference](https://github.com/MANISHDUTT224/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/MANISHDUTT224/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/MANISHDUTT224/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/MANISHDUTT224/LeetCode/tree/master/0072-edit-distance) |
+| [0221-maximal-square](https://github.com/MANISHDUTT224/LeetCode/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/MANISHDUTT224/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/MANISHDUTT224/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/MANISHDUTT224/LeetCode/tree/master/0037-sudoku-solver) |
 | [0200-number-of-islands](https://github.com/MANISHDUTT224/LeetCode/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/MANISHDUTT224/LeetCode/tree/master/0221-maximal-square) |
 | [2035-count-sub-islands](https://github.com/MANISHDUTT224/LeetCode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/MANISHDUTT224/LeetCode/tree/master/2411-spiral-matrix-iv) |
