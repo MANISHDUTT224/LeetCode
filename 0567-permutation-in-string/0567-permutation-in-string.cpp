@@ -12,6 +12,9 @@ public:
         return true;
     }
     bool checkInclusion(string s1, string s2) {
+        cin.tie(0);
+        cout.tie(0);
+        ios::sync_with_stdio(false);
         int n1=s1.size();
         int n2=s2.size();
         if(n1>n2){
