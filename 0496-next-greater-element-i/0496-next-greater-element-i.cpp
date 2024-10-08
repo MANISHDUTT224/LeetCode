@@ -9,6 +9,9 @@ public:
         return -1;
     }
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
+        cin.tie(0);
+        cout.tie(0);
+        ios::sync_with_stdio(false);
         vector<int>res;
         int i=0,j=0;
         while(i<nums1.size()){
