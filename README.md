@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/MANISHDUTT224/LeetCode/tree/master/0061-rotate-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/MANISHDUTT224/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0328-odd-even-linked-list](https://github.com/MANISHDUTT224/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/MANISHDUTT224/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/MANISHDUTT224/LeetCode/tree/master/0725-split-linked-list-in-parts) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/MANISHDUTT224/LeetCode/tree/master/0037-sudoku-solver) |
+| [0138-copy-list-with-random-pointer](https://github.com/MANISHDUTT224/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0264-ugly-number-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0432-all-oone-data-structure](https://github.com/MANISHDUTT224/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/0567-permutation-in-string) |
