@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/MANISHDUTT224/LeetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/MANISHDUTT224/LeetCode/tree/master/0221-maximal-square) |
+| [0229-majority-element-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/MANISHDUTT224/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0539-minimum-time-difference](https://github.com/MANISHDUTT224/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/MANISHDUTT224/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0539-minimum-time-difference](https://github.com/MANISHDUTT224/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/MANISHDUTT224/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/MANISHDUTT224/LeetCode/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/MANISHDUTT224/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0229-majority-element-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0432-all-oone-data-structure](https://github.com/MANISHDUTT224/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0496-next-greater-element-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0229-majority-element-ii) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/MANISHDUTT224/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/MANISHDUTT224/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/MANISHDUTT224/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
