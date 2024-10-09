@@ -1,7 +1,9 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& arr, int target) {
-        
+        cin.tie(0);
+        cout.tie(0);
+        ios::sync_with_stdio(false);
         int l=0,r=arr.size()-1;
         vector<int>res;
         vector<pair<int,int>>v;
