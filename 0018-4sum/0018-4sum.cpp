@@ -1,6 +1,9 @@
 class Solution {
 public:
     vector<vector<int>> fourSum(vector<int>& nums, int target) {
+        cin.tie(0);
+        cout.tie(0);
+        ios::sync_with_stdio(false);
         sort(nums.begin(),nums.end());
         int n=nums.size();
         vector<vector<int>> res;
