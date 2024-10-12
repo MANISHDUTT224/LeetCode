@@ -1,8 +1,13 @@
 class Solution {
 public:
     vector<string> topKFrequent(vector<string>& words, int k) {
-        auto compare=[](pair<string,int> &x,pair<string,int> &y){
-            return x.second==y.second?x.first<y.first:x.second>y.second;
+        auto compare=[](pair<string,int>&x,pair<string,int>&y){
+            if(x.second==y.second){
+                return x.first<y.first;
+            }
+            else{
+                return x.second>y.second;
+            }
         };
         unordered_map<string,int> mp;
         priority_queue<pair<string,int>,vector<pair<string,int>>,decltype(compare)>maxheap(compare);
