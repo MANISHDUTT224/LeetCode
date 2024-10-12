@@ -1,6 +1,9 @@
 class Solution {
 public:
     string frequencySort(string s) {
+        cin.tie(0);
+        cout.tie(0);
+        ios::sync_with_stdio(false);
         map<char,int> freq;
         priority_queue<pair<int,char>,vector<pair<int,char>>> maxheap;
         for(char c:s){
