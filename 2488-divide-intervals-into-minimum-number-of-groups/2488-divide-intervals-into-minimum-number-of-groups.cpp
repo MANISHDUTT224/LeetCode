@@ -1,6 +1,9 @@
 class Solution {
 public:
     int minGroups(vector<vector<int>>& intervals) {
+        cin.tie(0);
+        cout.tie(0);
+        ios::sync_with_stdio(false);
         vector<int>st;
         vector<int>et;
         for(int i=0;i<intervals.size();i++){
