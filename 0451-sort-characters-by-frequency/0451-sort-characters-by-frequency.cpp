@@ -4,23 +4,24 @@ public:
         cin.tie(0);
         cout.tie(0);
         ios::sync_with_stdio(false);
-        map<char,int> freq;
-        priority_queue<pair<int,char>,vector<pair<int,char>>> maxheap;
+        map<char,int>mp;
         for(char c:s){
-            freq[c]++;
+            mp[c]++;
         }
-        for(auto it:freq){
+        priority_queue<pair<int,char>,vector<pair<int,char>>>maxheap;
+        for(auto it:mp){
             maxheap.push({it.second,it.first});
         }
-        string result="";
+        string res="";
         while(!maxheap.empty()){
-            int charfreq=maxheap.top().first;
+            int chfreq=maxheap.top().first;
             char ch=maxheap.top().second;
-            for(int i=0;i<charfreq;i++){
-                result+=ch;
+            for(int i=0;i<chfreq;i++){
+
+                res+=ch;
             }
             maxheap.pop();
         }
-        return result;
+        return res;
     }
 };
