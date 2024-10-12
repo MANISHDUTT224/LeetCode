@@ -1,14 +1,12 @@
 class Solution {
 public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
-        cin.tie(0);
-        cout.tie(0);
-        ios::sync_with_stdio(false);
-        unordered_map<int,int>mp;
+        unordered_map<int,int> mp;
         for(int i:nums){
             mp[i]++;
         }
-        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> minheap;
+        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>>minheap;
+        vector<int>res;
         for(auto it:mp){
             if(minheap.size()<k){
                 minheap.push({it.second,it.first});
@@ -22,11 +20,11 @@ public:
                 }
             }
         }
-        vector<int> res;
         while(!minheap.empty()){
             res.push_back(minheap.top().second);
             minheap.pop();
         }
         return res;
+
     }
 };
