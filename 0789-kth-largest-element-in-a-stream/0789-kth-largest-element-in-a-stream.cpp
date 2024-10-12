@@ -1,29 +1,20 @@
 class KthLargest {
-    int num;
-    priority_queue<int,vector<int>,greater<int>> pq;
 public:
+    int curk;
+    priority_queue<int,vector<int>,greater<int>> minheap;
     KthLargest(int k, vector<int>& nums) {
-        cin.tie(0);
-        cout.tie(0);
-        ios::sync_with_stdio(false);
-        num=k;
-       
-        for(auto ele:nums){
-            pq.push(ele);
-            if(pq.size()>k){
-                pq.pop();
-            }
+        curk=k;
+        for(int i:nums){
+            add(i);
         }
-
     }
     
     int add(int val) {
-        pq.push(val);
-        if(pq.size()>num){
-
-            pq.pop();
+        minheap.push(val);
+        if(minheap.size()>curk){
+            minheap.pop();
         }
-        return pq.top();
+        return minheap.top();
     }
 };
 
