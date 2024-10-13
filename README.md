@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/MANISHDUTT224/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/MANISHDUTT224/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0778-reorganize-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MANISHDUTT224/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/MANISHDUTT224/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1325-path-with-maximum-probability](https://github.com/MANISHDUTT224/LeetCode/tree/master/1325-path-with-maximum-probability) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/MANISHDUTT224/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0692-top-k-frequent-words](https://github.com/MANISHDUTT224/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/MANISHDUTT224/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0778-reorganize-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/MANISHDUTT224/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1256-rank-transform-of-an-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/MANISHDUTT224/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/MANISHDUTT224/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0624-maximum-distance-in-arrays](https://github.com/MANISHDUTT224/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
+| [0778-reorganize-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/0778-reorganize-string) |
 | [0890-lemonade-change](https://github.com/MANISHDUTT224/LeetCode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/MANISHDUTT224/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MANISHDUTT224/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/MANISHDUTT224/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0778-reorganize-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/0778-reorganize-string) |
 | [0906-walking-robot-simulation](https://github.com/MANISHDUTT224/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/MANISHDUTT224/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/MANISHDUTT224/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -262,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/MANISHDUTT224/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/MANISHDUTT224/LeetCode/tree/master/0664-strange-printer) |
 | [0692-top-k-frequent-words](https://github.com/MANISHDUTT224/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0778-reorganize-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/MANISHDUTT224/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/MANISHDUTT224/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1250-longest-common-subsequence](https://github.com/MANISHDUTT224/LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -366,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/MANISHDUTT224/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/MANISHDUTT224/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/MANISHDUTT224/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0778-reorganize-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/MANISHDUTT224/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/MANISHDUTT224/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/MANISHDUTT224/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
