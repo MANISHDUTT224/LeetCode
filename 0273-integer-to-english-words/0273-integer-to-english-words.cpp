@@ -41,23 +41,21 @@ public:
        if(num==0){
         return "Zero";
        }
+
        for(auto it:mp){
         if(num>=it.first){
-        string a="";
-        if(num>=100){
-            a=numberToWords(num/it.first)+" ";
-        }
-        b=it.second;
-        c="";
-        
-        
-            if(num%it.first!=0){
-            c=" "+numberToWords(num%it.first);
+            a="";
+            if(num>=100){
+                a=numberToWords(num/it.first)+" ";
             }
-          return a+b+c;
-
+            b=it.second;
+            c="";
+            if(num%it.first!=0){
+                c=" "+numberToWords(num%it.first);
+            }
+        return a+b+c;
         }
-      
+        
        }
        return "";
     }       
