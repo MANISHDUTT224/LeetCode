@@ -1,6 +1,9 @@
 class Solution {
 public:
     vector<int> smallestRange(vector<vector<int>>& nums) {
+        cin.tie(0);
+        cout.tie(0);
+        ios::sync_with_stdio(false);
         priority_queue<vector<int>,vector<vector<int>>,greater<vector<int>>>minheap;
         int curmax=INT_MIN;
         for(int i=0;i<nums.size();i++){
