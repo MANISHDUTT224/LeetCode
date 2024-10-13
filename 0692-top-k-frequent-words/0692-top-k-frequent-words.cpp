@@ -9,29 +9,23 @@ public:
                 return x.second>y.second;
             }
         };
-        priority_queue<pair<string,int>,vector<pair<string,int>>,decltype(compare)>minheap(compare);
-        unordered_map<string,int>mp;
+        unordered_map<string,int> mp;
+        priority_queue<pair<string,int>,vector<pair<string,int>>,decltype(compare)>maxheap(compare);
         for(string s:words){
             mp[s]++;
         }
         for(auto it:mp){
-            if(minheap.size()<k){
-                minheap.push({it.first,it.second});
-            }
-            else{
-                
-                    minheap.pop();
-                    minheap.push({it.first,it.second});
-                
+            maxheap.push({it.first,it.second});
+            if(maxheap.size()>k){
+                maxheap.pop();
             }
         }
         vector<string>res(k);
         int index=k-1;
-        while(!minheap.empty()){
-            res[index--]=minheap.top().first;
-            minheap.pop();
+        while(!maxheap.empty()){
+            res[index--]=maxheap.top().first;
+            maxheap.pop();
         }
-      
         return res;
     }
 };
