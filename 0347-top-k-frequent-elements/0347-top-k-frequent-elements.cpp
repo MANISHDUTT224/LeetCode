@@ -5,26 +5,22 @@ public:
         for(int i:nums){
             mp[i]++;
         }
-        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>>minheap;
-        vector<int>res;
+        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>>maxheap;
         for(auto it:mp){
-            if(minheap.size()<k){
-                minheap.push({it.second,it.first});
+            if(maxheap.size()<k){
+                maxheap.push({it.second,it.first});
             }
             else{
-                int numfreq=it.second;
-                int num=it.first;
-                if(minheap.top().first<numfreq){
-                    minheap.pop();
-                    minheap.push({numfreq,num});
+                if(maxheap.top().first<it.second){
+                    maxheap.pop();
+                    maxheap.push({it.second,it.first});
                 }
             }
         }
-        while(!minheap.empty()){
-            res.push_back(minheap.top().second);
-            minheap.pop();
-        }
-        return res;
-
+        vector<int>res;
+        while(!maxheap.empty()){
+            res.push_back(maxheap.top().second);
+            maxheap.pop();
+        }return res;
     }
 };
