@@ -1,9 +1,7 @@
 class Solution {
 public:
     int countSquares(vector<vector<int>>& matrix) {
-        cin.tie(0);
-        cout.tie(0);
-        ios::sync_with_stdio(false);
+        
         int ans=0;
         int n=matrix.size();
         int m=matrix[0].size();
