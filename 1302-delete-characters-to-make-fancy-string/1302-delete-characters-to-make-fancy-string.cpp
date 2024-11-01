@@ -1,6 +1,9 @@
 class Solution {
 public:
     string makeFancyString(string s) {
+        cin.tie(0);
+        cout.tie(0);
+        ios::sync_with_stdio(false);
         stack<char>st;
         int count=1;
         string res;
