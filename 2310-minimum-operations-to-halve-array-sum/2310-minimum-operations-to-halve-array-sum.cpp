@@ -10,16 +10,12 @@ public:
         }
         s=sum;
         int ans=0;
-        while(!pq.empty()){
-            double ele=pq.top();
+        while(s>=sum/2.0){
+            double maxnum=pq.top();
             pq.pop();
-            s=s-(ele/2);
-            if(s<=sum/2){
-                ans++;
-                break;
-            }
+            s-=(maxnum/2.0);
+            pq.push(maxnum/2.0);
             ans++;
-            pq.push(ele/2);
         }
         return ans;
 
