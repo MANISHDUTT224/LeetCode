@@ -1,6 +1,9 @@
 class Solution {
 public:
     int halveArray(vector<int>& nums) {
+        cin.tie(0);
+        cout.tie(0);
+        ios::sync_with_stdio(false);
         double sum=0,s;
         priority_queue<double> pq(nums.begin(),nums.end());
 
