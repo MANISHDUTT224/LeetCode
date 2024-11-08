@@ -1,6 +1,9 @@
 class Solution {
 public:
     vector<int> getMaximumXor(vector<int>& nums, int maximumBit) {
+        cin.tie(0);
+        cout.tie(0);
+        ios::sync_with_stdio(false);
         int n=nums.size();
         int xorr=nums[0];
         int maxor=pow(2,maximumBit)-1;
