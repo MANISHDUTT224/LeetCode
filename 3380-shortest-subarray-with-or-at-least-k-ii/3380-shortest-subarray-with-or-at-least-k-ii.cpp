@@ -1,6 +1,9 @@
 class Solution {
 public:
     int minimumSubarrayLength(vector<int>& nums, int k) {
+        cin.tie(0);
+        cout.tie(0);
+        ios::sync_with_stdio(false);
         int n=nums.size();
         vector<int>bitcount(32,0);
         int left=0,currentor=0;
