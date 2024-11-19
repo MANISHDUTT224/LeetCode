@@ -1,6 +1,9 @@
 class Solution {
 public:
     long long maximumSubarraySum(vector<int>& nums, int k) {
+        cin.tie(0);
+        cout.tie(0);
+        ios::sync_with_stdio(false);
         int n=nums.size();
         unordered_set<int>elements;
         long long cursum=0,maxsum=0,begin=0;
