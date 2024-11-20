@@ -1,6 +1,9 @@
 class Solution {
 public:
     int takeCharacters(string s, int k) {
+        cin.tie(0);
+        cout.tie(0);
+        ios::sync_with_stdio(false);
         vector<int> count(3,0);
         int maxlen=INT_MIN;
         for(char c:s){
