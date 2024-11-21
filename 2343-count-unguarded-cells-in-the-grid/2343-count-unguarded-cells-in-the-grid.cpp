@@ -1,6 +1,9 @@
 class Solution {
 public:
     int countUnguarded(int m, int n, vector<vector<int>>& guards, vector<vector<int>>& walls) {
+        cin.tie(0);
+        cout.tie(0);
+        ios::sync_with_stdio(false);
         int g[m][n];
         memset(g,0,sizeof(g));
         for(auto &e:guards){
