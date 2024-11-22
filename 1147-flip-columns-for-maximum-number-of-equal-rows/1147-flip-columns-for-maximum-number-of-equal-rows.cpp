@@ -1,6 +1,9 @@
 class Solution {
 public:
     int maxEqualRowsAfterFlips(vector<vector<int>>& matrix) {
+        cin.tie(0);
+        cout.tie(0);
+        ios::sync_with_stdio(false);
         unordered_map<string,int>mp;
         for(auto it:matrix){
             bool flip=it[0]==1;
