@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/MANISHDUTT224/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0787-sliding-puzzle](https://github.com/MANISHDUTT224/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/MANISHDUTT224/LeetCode/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/MANISHDUTT224/LeetCode/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/MANISHDUTT224/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/MANISHDUTT224/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/MANISHDUTT224/LeetCode/tree/master/0200-number-of-islands) |
+| [0787-sliding-puzzle](https://github.com/MANISHDUTT224/LeetCode/tree/master/0787-sliding-puzzle) |
 | [1484-linked-list-in-binary-tree](https://github.com/MANISHDUTT224/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/MANISHDUTT224/LeetCode/tree/master/2035-count-sub-islands) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/MANISHDUTT224/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/MANISHDUTT224/LeetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/MANISHDUTT224/LeetCode/tree/master/0221-maximal-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0787-sliding-puzzle](https://github.com/MANISHDUTT224/LeetCode/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/MANISHDUTT224/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MANISHDUTT224/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1972-rotating-the-box](https://github.com/MANISHDUTT224/LeetCode/tree/master/1972-rotating-the-box) |
