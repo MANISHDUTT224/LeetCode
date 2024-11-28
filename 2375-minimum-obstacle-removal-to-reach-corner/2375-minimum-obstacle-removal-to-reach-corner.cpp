@@ -1,6 +1,9 @@
 class Solution {
 public:
     int minimumObstacles(vector<vector<int>>& grid) {
+        cin.tie(0);
+        cout.tie(0);
+        ios::sync_with_stdio(false);
         int m=grid.size(),n=grid[0].size();
         vector<vector<int>> distance(m,vector<int>(n,INT_MAX));
         deque<pair<int,int>>dq;
