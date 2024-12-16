@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/MANISHDUTT224/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/MANISHDUTT224/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/MANISHDUTT224/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/MANISHDUTT224/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/MANISHDUTT224/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/MANISHDUTT224/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/MANISHDUTT224/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/MANISHDUTT224/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MANISHDUTT224/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/MANISHDUTT224/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/MANISHDUTT224/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/MANISHDUTT224/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/MANISHDUTT224/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/MANISHDUTT224/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
