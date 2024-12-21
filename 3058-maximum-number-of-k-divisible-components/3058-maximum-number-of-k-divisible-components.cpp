@@ -1,9 +1,9 @@
 class Solution {
 public:
     int maxKDivisibleComponents(int n, vector<vector<int>>& edges, vector<int>& values, int k) {
-    cin.tie(0);
-    cout.tie(0);
-    ios::sync_with_stdio(false);
+    // cin.tie(0);
+    // cout.tie(0);
+    // ios::sync_with_stdio(false);
         if(n<2){
             return 1;
         }
