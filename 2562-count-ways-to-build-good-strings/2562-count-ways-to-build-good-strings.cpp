@@ -1,6 +1,9 @@
 class Solution {
 public:
     int countGoodStrings(int low, int high, int zero, int one) {
+        cin.tie(0);
+        cout.tie(0);
+        ios::sync_with_stdio(false);
         vector<int>dp(high+1,0);
         dp[0]=1;
        int MOD = 1000000007;
