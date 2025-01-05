@@ -1,35 +1,29 @@
 class Solution {
 public:
-    void dfs(int i,int j,vector<vector<char>> &grid,int n,int m,vector<int>rowdiff,vector<int>coldiff){
-        grid[i][j]=0;
-        for(int k=0;k<4;k++){
-            int row=i+rowdiff[k];
-            int col=j+coldiff[k];
-            if(row>=0 && row<n && col>=0 && col<m && grid[row][col]=='1'){
-                dfs(row,col,grid,n,m,rowdiff,coldiff);
-            }
-
+    void dfs(vector<vector<char>>&grid,int n,int m,int i,int j){
+        if(i==n || j==m || i<0 || j<0 || grid[i][j]=='0'){
+            return;
         }
-        
+        grid[i][j]='0';
+        dfs(grid,n,m,i+1,j);
+        dfs(grid,n,m,i-1,j);
+        dfs(grid,n,m,i,j+1);
+        dfs(grid,n,m,i,j-1);
+        return;
+
     }
     int numIslands(vector<vector<char>>& grid) {
-        cin.tie(0);
-        cout.tie(0);
-        ios::sync_with_stdio(false);
         int n=grid.size();
         int m=grid[0].size();
-       int ans=0;
-       vector<int>rowdiff={-1,1,0,0};
-
-       vector<int> coldiff={0,0,1,-1};
-       for(int i=0;i<n;i++){
-        for(int j=0;j<m;j++){
-            if(grid[i][j]=='1'){
-                ans++;
-                dfs(i,j,grid,n,m,coldiff,rowdiff);
+        int islands=0;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(grid[i][j]=='1'){
+                    islands++;
+                    dfs(grid,n,m,i,j);
+                }
             }
         }
-       }
-        return ans;
+        return islands;
     }
 };
