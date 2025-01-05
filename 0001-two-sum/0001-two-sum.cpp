@@ -1,27 +1,24 @@
 class Solution {
 public:
-    vector<int> twoSum(vector<int>& arr, int target) {
-        cin.tie(0);
-        cout.tie(0);
-        ios::sync_with_stdio(false);
-        int l=0,r=arr.size()-1;
-        vector<int>res;
-        vector<pair<int,int>>v;
-        for(int i=0;i<arr.size();i++){
-            v.push_back({arr[i],i});
+    vector<int> twoSum(vector<int>& nums, int target) {
+        int n=nums.size();
+        int l=0,r=n-1;
+        vector<pair<int,int>>res;
+        for(int i=0;i<n;i++){
+            res.push_back({nums[i],i});
         }
-        sort(v.begin(),v.end());
+        sort(res.begin(),res.end());
         while(l<=r){
-            if(v[l].first+v[r].first==target){
-                return {v[l].second,v[r].second};
+            if(res[l].first+res[r].first==target){
+                return {res[l].second,res[r].second};
             }
-            else if(v[l].first+v[r].first<target){
+            else if(res[l].first+res[r].first<target){
                 l++;
             }
             else{
                 r--;
             }
-        }   
+        }
         return {-1,-1};
     }
 };
