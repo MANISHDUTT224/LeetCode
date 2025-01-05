@@ -23,6 +23,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/MANISHDUTT224/LeetCode/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/MANISHDUTT224/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0731-my-calendar-ii) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | ------- |
 | [0061-rotate-list](https://github.com/MANISHDUTT224/LeetCode/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/MANISHDUTT224/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/MANISHDUTT224/LeetCode/tree/master/0146-lru-cache) |
 | [0328-odd-even-linked-list](https://github.com/MANISHDUTT224/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/MANISHDUTT224/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/MANISHDUTT224/LeetCode/tree/master/0725-split-linked-list-in-parts) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0001-two-sum](https://github.com/MANISHDUTT224/LeetCode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/MANISHDUTT224/LeetCode/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/MANISHDUTT224/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/MANISHDUTT224/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/MANISHDUTT224/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0264-ugly-number-ii) |
@@ -706,6 +709,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/MANISHDUTT224/LeetCode/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/MANISHDUTT224/LeetCode/tree/master/0432-all-oone-data-structure) |
 ## Monotonic Stack
 |  |
