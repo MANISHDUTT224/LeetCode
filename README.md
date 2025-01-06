@@ -35,6 +35,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/MANISHDUTT224/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/0729-my-calendar-i) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0046-permutations](https://github.com/MANISHDUTT224/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/MANISHDUTT224/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0054-spiral-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MANISHDUTT224/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0169-majority-element](https://github.com/MANISHDUTT224/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0179-largest-number) |
