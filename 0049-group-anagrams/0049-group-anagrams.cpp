@@ -4,27 +4,28 @@ public:
         cin.tie(0);
         cout.tie(0);
         ios::sync_with_stdio(false);
-        vector<vector<string>> result;
+        vector<vector<string>>res;
         map<string,vector<string>>mp;
+       
         for(auto str:strs){
             string temp=str;
+            vector<string>tempstringarr;
+            tempstringarr.push_back(temp);
             sort(str.begin(),str.end());
             if(mp.find(str)==mp.end()){
-                vector<string>temparr;
-                temparr.push_back(temp);
-                mp[str]=temparr;
+                mp[str]=tempstringarr;
             }
             else{
                 mp[str].push_back(temp);
             }
         }
         for(auto it:mp){
-            vector<string>t;
+            vector<string>temp;
             for(auto i:it.second){
-                t.push_back(i);
+                temp.push_back(i);
             }
-            result.push_back(t);
+            res.push_back(temp);
         }
-        return result;
+        return res;
     }
 };
