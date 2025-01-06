@@ -117,6 +117,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0037-sudoku-solver](https://github.com/MANISHDUTT224/LeetCode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/MANISHDUTT224/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/MANISHDUTT224/LeetCode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0054-spiral-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MANISHDUTT224/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0169-majority-element](https://github.com/MANISHDUTT224/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0179-largest-number) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0054-spiral-matrix) |
 | [0592-fraction-addition-and-subtraction](https://github.com/MANISHDUTT224/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/MANISHDUTT224/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MANISHDUTT224/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/MANISHDUTT224/LeetCode/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/MANISHDUTT224/LeetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/MANISHDUTT224/LeetCode/tree/master/0221-maximal-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
