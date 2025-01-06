@@ -4,14 +4,14 @@ public:
         cin.tie(0);
         cout.tie(0);
         ios::sync_with_stdio(false);
-        int n=s.size(),l=0,r=0;
+        int l=0,r=0,n=s.size();
         set<char>st;
-        int maxlen=0;
+        int maxl=0;
         while(r<n){
             if(st.find(s[r])==st.end()){
                 st.insert(s[r]);
-                int cur=r-l+1;
-                maxlen=max(maxlen,cur);
+                int curl=r-l+1;
+                maxl=max(maxl,curl);
                 r++;
             }
             else{
@@ -19,6 +19,6 @@ public:
                 l++;
             }
         }
-        return maxlen;
+        return maxl;
     }
 };
