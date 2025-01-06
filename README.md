@@ -454,6 +454,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MANISHDUTT224/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/MANISHDUTT224/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/MANISHDUTT224/LeetCode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/MANISHDUTT224/LeetCode/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/MANISHDUTT224/LeetCode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MANISHDUTT224/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MANISHDUTT224/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/0496-next-greater-element-i) |
