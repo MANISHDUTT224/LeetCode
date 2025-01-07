@@ -1,6 +1,9 @@
 class Solution {
 public:
     vector<string> letterCombinations(string digits) {
+        cin.tie(0);
+        cout.tie(0);
+        ios::sync_with_stdio(false);
         vector<string>op;
         vector<string>phone_map={"abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
         if(digits.empty()){
