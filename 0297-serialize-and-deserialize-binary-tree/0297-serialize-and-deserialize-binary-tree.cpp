@@ -10,37 +10,36 @@
 class Codec {
 public:
 
-       
     // Encodes a tree to a single string.
     string serialize(TreeNode* root) {
-        
         if(!root){
             return "";
         }
+        string res="";
         queue<TreeNode*>q;
         q.push(root);
-        string res="";
-        res+=(to_string(root->val)+",");
+        res+=to_string(root->val)+",";
+        
         while(!q.empty()){
             TreeNode* curnode=q.front();
             q.pop();
-            
-            if(curnode->left==nullptr){
-                res+="#,";
-            }
-            else{
+            if(curnode->left!=nullptr){
                 res+=(to_string(curnode->left->val))+",";
                 q.push(curnode->left);
             }
-            if(curnode->right==nullptr){
+            else{
                 res+="#,";
             }
+            if(curnode->right!=nullptr){
+                 res+=(to_string(curnode->right->val))+",";
+                 
+                 q.push(curnode->right);
+            }
             else{
-                res+=(to_string(curnode->right->val))+",";
-                q.push(curnode->right);
+                res+="#,";
             }
         }
-        cout<<res;
+      cout<<res;
         return res;
     }
 
@@ -49,12 +48,13 @@ public:
         if(data.size()==0){
             return nullptr;
         }
+        queue<TreeNode*>q;
         stringstream s(data);
         string str;
         getline(s,str,',');
-        queue<TreeNode*>q;
         TreeNode* root=new TreeNode(stoi(str));
         q.push(root);
+        
         while(!q.empty()){
             TreeNode* curnode=q.front();
             q.pop();
@@ -63,7 +63,7 @@ public:
                 curnode->left=NULL;
             }
             else{
-                TreeNode *leftnode=new TreeNode(stoi(str));
+                TreeNode* leftnode=new TreeNode(stoi(str));
                 curnode->left=leftnode;
                 q.push(leftnode);
             }
@@ -76,6 +76,7 @@ public:
                 curnode->right=rightnode;
                 q.push(rightnode);
             }
+
         }
         return root;
     }
