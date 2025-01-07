@@ -8,6 +8,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/MANISHDUTT224/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/MANISHDUTT224/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/MANISHDUTT224/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MANISHDUTT224/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/MANISHDUTT224/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MANISHDUTT224/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/MANISHDUTT224/LeetCode/tree/master/0146-lru-cache) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/MANISHDUTT224/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0432-all-oone-data-structure](https://github.com/MANISHDUTT224/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0731-my-calendar-ii) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/MANISHDUTT224/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/MANISHDUTT224/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/MANISHDUTT224/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MANISHDUTT224/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MANISHDUTT224/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/MANISHDUTT224/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
@@ -465,6 +468,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0214-shortest-palindrome](https://github.com/MANISHDUTT224/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/MANISHDUTT224/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/MANISHDUTT224/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/MANISHDUTT224/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0451-sort-characters-by-frequency](https://github.com/MANISHDUTT224/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/MANISHDUTT224/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/MANISHDUTT224/LeetCode/tree/master/0564-find-the-closest-palindrome) |
@@ -571,6 +575,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0145-binary-tree-postorder-traversal](https://github.com/MANISHDUTT224/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/MANISHDUTT224/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/MANISHDUTT224/LeetCode/tree/master/0200-number-of-islands) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/MANISHDUTT224/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/MANISHDUTT224/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MANISHDUTT224/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/MANISHDUTT224/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -609,6 +614,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/MANISHDUTT224/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/MANISHDUTT224/LeetCode/tree/master/0200-number-of-islands) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/MANISHDUTT224/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MANISHDUTT224/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/MANISHDUTT224/LeetCode/tree/master/0787-sliding-puzzle) |
 | [1484-linked-list-in-binary-tree](https://github.com/MANISHDUTT224/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
