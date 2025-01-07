@@ -2,34 +2,33 @@ class Solution {
 public:
     bool search(vector<int>& arr, int target) {
         int n=arr.size();
-        int l=0,r=n-1;
-        while(l<=r){
-            int mid=(l+r)/2;
+        int i=0,j=n-1;
+        while(i<=j){
+            int mid=(i+j)/2;
             if(arr[mid]==target){
                 return true;
             }
-            if(arr[l]==arr[mid] && arr[mid]==arr[r] && l<=r){
-                l++;
-                r--;
+            if(arr[i]==arr[mid] && arr[j]==arr[mid]){
+                i++;
+                j--;
             }
-            else if(arr[l]<=arr[mid]){
-                if(arr[l]<=target && target<=arr[mid]){
-                    r=mid-1;
+            else if(arr[i]<=arr[mid]){
+                if(arr[i]<=target && target<=arr[mid]){
+                    j=mid-1;
                 }
                 else{
-                    l=mid+1;
+                    i=mid+1;
                 }
             }
             else{
-                if(arr[mid]<=target && target<=arr[r]){
-                    l=mid+1;
+                if(arr[mid]<=target && target<=arr[j]){
+                    i=mid+1;
                 }
                 else{
-                    r=mid-1;
+                    j=mid-1;
                 }
             }
         }
         return false;
-
     }
 };
