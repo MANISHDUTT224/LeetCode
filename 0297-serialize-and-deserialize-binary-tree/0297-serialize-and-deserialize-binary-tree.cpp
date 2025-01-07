@@ -13,9 +13,7 @@ public:
        
     // Encodes a tree to a single string.
     string serialize(TreeNode* root) {
-         cin.tie(0);
-        cout.tie(0);
-        ios::sync_with_stdio(false);
+        
         if(!root){
             return "";
         }
