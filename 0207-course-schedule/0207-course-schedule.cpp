@@ -1,6 +1,9 @@
 class Solution {
 public:
     bool canFinish(int n, vector<vector<int>>& prerequisites) {
+        cin.tie(0);
+        cout.tie(0);
+        ios::sync_with_stdio(false);
         vector<int> adj[n];
         vector<int> indegree(n, 0);
         vector<int> ans;
