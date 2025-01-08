@@ -1,6 +1,9 @@
 class Solution {
 public:
     int countPrefixSuffixPairs(vector<string>& words) {
+        cin.tie(0);
+        cout.tie(0);
+        ios::sync_with_stdio(false);
         int n=words.size();
         int count=0;
         for(int i=0;i<n;i++){
