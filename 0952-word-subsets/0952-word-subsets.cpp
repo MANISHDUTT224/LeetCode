@@ -1,6 +1,9 @@
 class Solution {
 public:
     vector<string> wordSubsets(vector<string>& words1, vector<string>& words2) {
+        cin.tie(0);
+        cout.tie(0);
+        ios::sync_with_stdio(false);
         map<char,int>mp;
         for(auto it:words2){
             map<char,int>temp;
