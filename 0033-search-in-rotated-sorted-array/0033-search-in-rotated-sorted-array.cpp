@@ -1,10 +1,7 @@
 class Solution {
 public:
     int search(vector<int>& arr, int target) {
-        cin.tie(0);
-        cout.tie(0);
-        ios::sync_with_stdio(false);
-        int n=arr.size(),i=0,j=n-1;
+        int i=0,j=arr.size()-1;
         while(i<=j){
             int mid=(i+j)/2;
             if(arr[mid]==target){
@@ -12,7 +9,7 @@ public:
             }
             if(arr[i]<=arr[mid]){
                 if(arr[i]<=target && target<=arr[mid]){
-                    j=mid-1;
+                j=mid-1;
                 }
                 else{
                     i=mid+1;
