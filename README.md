@@ -207,6 +207,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/MANISHDUTT224/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/MANISHDUTT224/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2374-steps-to-make-array-non-decreasing](https://github.com/MANISHDUTT224/LeetCode/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/MANISHDUTT224/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/MANISHDUTT224/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2465-shifting-letters-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/2465-shifting-letters-ii) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0859-design-circular-deque](https://github.com/MANISHDUTT224/LeetCode/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/MANISHDUTT224/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MANISHDUTT224/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2374-steps-to-make-array-non-decreasing](https://github.com/MANISHDUTT224/LeetCode/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2411-spiral-matrix-iv](https://github.com/MANISHDUTT224/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/MANISHDUTT224/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -600,6 +602,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/MANISHDUTT224/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MANISHDUTT224/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/MANISHDUTT224/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2374-steps-to-make-array-non-decreasing](https://github.com/MANISHDUTT224/LeetCode/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2470-removing-stars-from-a-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/MANISHDUTT224/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/MANISHDUTT224/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -803,6 +806,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1002-maximum-width-ramp](https://github.com/MANISHDUTT224/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/MANISHDUTT224/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/MANISHDUTT224/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2374-steps-to-make-array-non-decreasing](https://github.com/MANISHDUTT224/LeetCode/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/MANISHDUTT224/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Combinatorics
 |  |
