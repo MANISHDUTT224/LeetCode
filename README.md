@@ -173,6 +173,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1325-path-with-maximum-probability](https://github.com/MANISHDUTT224/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/MANISHDUTT224/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MANISHDUTT224/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/MANISHDUTT224/LeetCode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MANISHDUTT224/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1435-xor-queries-of-a-subarray](https://github.com/MANISHDUTT224/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MANISHDUTT224/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -671,6 +672,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0449-serialize-and-deserialize-bst](https://github.com/MANISHDUTT224/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MANISHDUTT224/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/MANISHDUTT224/LeetCode/tree/master/0787-sliding-puzzle) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/MANISHDUTT224/LeetCode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1484-linked-list-in-binary-tree](https://github.com/MANISHDUTT224/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/MANISHDUTT224/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2035-count-sub-islands](https://github.com/MANISHDUTT224/LeetCode/tree/master/2035-count-sub-islands) |
@@ -700,6 +702,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0787-sliding-puzzle](https://github.com/MANISHDUTT224/LeetCode/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/MANISHDUTT224/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MANISHDUTT224/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/MANISHDUTT224/LeetCode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/MANISHDUTT224/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1972-rotating-the-box](https://github.com/MANISHDUTT224/LeetCode/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/MANISHDUTT224/LeetCode/tree/master/2035-count-sub-islands) |
