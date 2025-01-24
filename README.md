@@ -131,6 +131,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0018-4sum](https://github.com/MANISHDUTT224/LeetCode/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/MANISHDUTT224/LeetCode/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/MANISHDUTT224/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/MANISHDUTT224/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/MANISHDUTT224/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0054-spiral-matrix) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0015-3sum](https://github.com/MANISHDUTT224/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/MANISHDUTT224/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/MANISHDUTT224/LeetCode/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/MANISHDUTT224/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/MANISHDUTT224/LeetCode/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0567-permutation-in-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/0567-permutation-in-string) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/MANISHDUTT224/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/MANISHDUTT224/LeetCode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/MANISHDUTT224/LeetCode/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/MANISHDUTT224/LeetCode/tree/master/0198-house-robber) |
@@ -608,6 +611,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MANISHDUTT224/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/MANISHDUTT224/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MANISHDUTT224/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MANISHDUTT224/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -842,6 +846,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/MANISHDUTT224/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MANISHDUTT224/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/MANISHDUTT224/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
