@@ -149,6 +149,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0347-top-k-frequent-elements](https://github.com/MANISHDUTT224/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/MANISHDUTT224/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/MANISHDUTT224/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0480-sliding-window-median](https://github.com/MANISHDUTT224/LeetCode/tree/master/0480-sliding-window-median) |
 | [0494-target-sum](https://github.com/MANISHDUTT224/LeetCode/tree/master/0494-target-sum) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0221-maximal-square](https://github.com/MANISHDUTT224/LeetCode/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/MANISHDUTT224/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/MANISHDUTT224/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/MANISHDUTT224/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/MANISHDUTT224/LeetCode/tree/master/0494-target-sum) |
 | [0583-delete-operation-for-two-strings](https://github.com/MANISHDUTT224/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
