@@ -1,6 +1,9 @@
 class Solution {
 public:
     bool isSubset(vector<int>&nums,int sum){
+        cin.tie(0);
+        cout.tie(0);
+        ios::sync_with_stdio(false);
         int s=nums.size();
         vector<vector<bool>>dp(s+1,vector<bool>(sum+1,false));
         for(int i=0;i<s;i++){
