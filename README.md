@@ -151,6 +151,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0407-trapping-rain-water-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/MANISHDUTT224/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/MANISHDUTT224/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0472-concatenated-words](https://github.com/MANISHDUTT224/LeetCode/tree/master/0472-concatenated-words) |
 | [0480-sliding-window-median](https://github.com/MANISHDUTT224/LeetCode/tree/master/0480-sliding-window-median) |
 | [0494-target-sum](https://github.com/MANISHDUTT224/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0264-ugly-number-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/MANISHDUTT224/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/MANISHDUTT224/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0472-concatenated-words](https://github.com/MANISHDUTT224/LeetCode/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/MANISHDUTT224/LeetCode/tree/master/0494-target-sum) |
 | [0583-delete-operation-for-two-strings](https://github.com/MANISHDUTT224/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0650-2-keys-keyboard](https://github.com/MANISHDUTT224/LeetCode/tree/master/0650-2-keys-keyboard) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MANISHDUTT224/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/MANISHDUTT224/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/MANISHDUTT224/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0472-concatenated-words](https://github.com/MANISHDUTT224/LeetCode/tree/master/0472-concatenated-words) |
 | [0539-minimum-time-difference](https://github.com/MANISHDUTT224/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/MANISHDUTT224/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/0567-permutation-in-string) |
@@ -651,6 +654,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MANISHDUTT224/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/MANISHDUTT224/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0449-serialize-and-deserialize-bst](https://github.com/MANISHDUTT224/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0472-concatenated-words](https://github.com/MANISHDUTT224/LeetCode/tree/master/0472-concatenated-words) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MANISHDUTT224/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/MANISHDUTT224/LeetCode/tree/master/0684-redundant-connection) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/MANISHDUTT224/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -840,6 +844,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/MANISHDUTT224/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/MANISHDUTT224/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [0472-concatenated-words](https://github.com/MANISHDUTT224/LeetCode/tree/master/0472-concatenated-words) |
 | [0692-top-k-frequent-words](https://github.com/MANISHDUTT224/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/MANISHDUTT224/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/MANISHDUTT224/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
