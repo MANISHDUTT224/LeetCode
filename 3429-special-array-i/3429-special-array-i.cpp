@@ -14,11 +14,7 @@ public:
                 return false;
             }
         }
-        if(n%2!=0){
-            if(nums[n/2]%2==nums[(n/2)+1]%2){
-                return false;
-            }
-        }
+       
         return true;
     }
 };
