@@ -6,25 +6,19 @@ public:
         int maxlen=1;
         for(int i=1;i<n;i++){
             if(nums[i]>nums[i-1]){
-                inclen++;  
+                inclen++;
+                declen=1;  
+            }
+            else if(nums[i]<nums[i-1]){
+                declen++;
+                inclen=1;
             }
             else{   
                 inclen=1;
+                declen=1;
             }
-            maxlen=max(maxlen,inclen);
+            maxlen=max(maxlen,max(inclen,declen));
         }
-        
-        inclen=1;
-        for(int i=1;i<n;i++){
-             if(nums[i]<nums[i-1]){
-                inclen++;  
-            }
-            else{   
-                inclen=1;
-            }
-             maxlen=max(maxlen,inclen);
-        }
-        
         return maxlen;
     }
 };
