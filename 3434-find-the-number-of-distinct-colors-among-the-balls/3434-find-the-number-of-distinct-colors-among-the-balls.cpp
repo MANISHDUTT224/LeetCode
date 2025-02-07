@@ -1,6 +1,9 @@
 class Solution {
 public:
     vector<int> queryResults(int limit, vector<vector<int>>& queries) {
+        cin.tie(0);
+        cout.tie(0);
+        ios::sync_with_stdio(false);
         map<int,int>ballmap,colormap;
         vector<int>result(queries.size(),0);
         for(int i=0;i<queries.size();i++){
