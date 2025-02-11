@@ -23,6 +23,9 @@ public:
         return lps;
     }
     string removeOccurrences(string s, string part) {
+        cin.tie(0);
+        cout.tie(0);
+        ios::sync_with_stdio(false);
         vector<int>lps=computelps(part);
         stack<char>charStack;
         vector<int>substringindices(s.size()+1,0);
