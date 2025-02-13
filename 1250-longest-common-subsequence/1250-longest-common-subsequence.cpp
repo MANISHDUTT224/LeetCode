@@ -11,7 +11,7 @@ public:
                 }
                 else if(c==text1[i]){
                     dp[i]=len+1;
-                     maxlen=max(maxlen,len);
+                     maxlen=max(maxlen,len+1);
                 }
             }
         }
