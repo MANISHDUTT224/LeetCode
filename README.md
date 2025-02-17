@@ -149,6 +149,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0074-search-a-2d-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MANISHDUTT224/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0139-word-break](https://github.com/MANISHDUTT224/LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/MANISHDUTT224/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/MANISHDUTT224/LeetCode/tree/master/0198-house-robber) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0042-trapping-rain-water](https://github.com/MANISHDUTT224/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/MANISHDUTT224/LeetCode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/MANISHDUTT224/LeetCode/tree/master/0072-edit-distance) |
+| [0139-word-break](https://github.com/MANISHDUTT224/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/MANISHDUTT224/LeetCode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/MANISHDUTT224/LeetCode/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/MANISHDUTT224/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0049-group-anagrams](https://github.com/MANISHDUTT224/LeetCode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/MANISHDUTT224/LeetCode/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/MANISHDUTT224/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/MANISHDUTT224/LeetCode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/MANISHDUTT224/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/MANISHDUTT224/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0229-majority-element-ii) |
@@ -573,6 +576,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0065-valid-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0065-valid-number) |
 | [0072-edit-distance](https://github.com/MANISHDUTT224/LeetCode/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/MANISHDUTT224/LeetCode/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/MANISHDUTT224/LeetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/MANISHDUTT224/LeetCode/tree/master/0214-shortest-palindrome) |
@@ -909,6 +913,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/MANISHDUTT224/LeetCode/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/MANISHDUTT224/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Rolling Hash
@@ -933,6 +938,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/MANISHDUTT224/LeetCode/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/MANISHDUTT224/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/MANISHDUTT224/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0472-concatenated-words](https://github.com/MANISHDUTT224/LeetCode/tree/master/0472-concatenated-words) |
