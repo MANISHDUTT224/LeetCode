@@ -6,6 +6,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/MANISHDUTT224/LeetCode/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MANISHDUTT224/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/MANISHDUTT224/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/MANISHDUTT224/LeetCode/tree/master/0226-invert-binary-tree) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/MANISHDUTT224/LeetCode/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MANISHDUTT224/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/MANISHDUTT224/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/MANISHDUTT224/LeetCode/tree/master/0226-invert-binary-tree) |
@@ -704,6 +706,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/MANISHDUTT224/LeetCode/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MANISHDUTT224/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/MANISHDUTT224/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/MANISHDUTT224/LeetCode/tree/master/0200-number-of-islands) |
@@ -763,6 +766,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/MANISHDUTT224/LeetCode/tree/master/0100-same-tree) |
 | [0127-word-ladder](https://github.com/MANISHDUTT224/LeetCode/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/MANISHDUTT224/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/MANISHDUTT224/LeetCode/tree/master/0200-number-of-islands) |
