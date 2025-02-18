@@ -63,6 +63,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2164-two-best-non-overlapping-events](https://github.com/MANISHDUTT224/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/MANISHDUTT224/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/MANISHDUTT224/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2344-escape-the-spreading-fire](https://github.com/MANISHDUTT224/LeetCode/tree/master/2344-escape-the-spreading-fire) |
 | [2586-longest-square-streak-in-an-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/MANISHDUTT224/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2292-counting-words-with-a-given-prefix](https://github.com/MANISHDUTT224/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/MANISHDUTT224/LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/MANISHDUTT224/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2344-escape-the-spreading-fire](https://github.com/MANISHDUTT224/LeetCode/tree/master/2344-escape-the-spreading-fire) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/MANISHDUTT224/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/MANISHDUTT224/LeetCode/tree/master/2374-steps-to-make-array-non-decreasing) |
@@ -810,6 +812,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1558-course-schedule-iv](https://github.com/MANISHDUTT224/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/MANISHDUTT224/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/MANISHDUTT224/LeetCode/tree/master/2035-count-sub-islands) |
+| [2344-escape-the-spreading-fire](https://github.com/MANISHDUTT224/LeetCode/tree/master/2344-escape-the-spreading-fire) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/MANISHDUTT224/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/MANISHDUTT224/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/MANISHDUTT224/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -859,6 +862,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2132-convert-1d-array-into-2d-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/MANISHDUTT224/LeetCode/tree/master/2145-grid-game) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/MANISHDUTT224/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2344-escape-the-spreading-fire](https://github.com/MANISHDUTT224/LeetCode/tree/master/2344-escape-the-spreading-fire) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/MANISHDUTT224/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/MANISHDUTT224/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2685-first-completely-painted-row-or-column](https://github.com/MANISHDUTT224/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
