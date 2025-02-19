@@ -1,86 +1,80 @@
 class Solution {
-public:
-    int n,m;
-    vector<pair<int,int>>dir={{-1,0},{0,-1},{1,0},{0,1}};
-    void find(vector<vector<int>>&grid,vector<vector<int>>&dist){
-       queue<pair<int,int>>q;
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(grid[i][j]==1){
-                    dist[i][j]=0;
-                    q.push({i,j});
-                }
-                else if(grid[i][j]==2){
-                    dist[i][j]=-1;
-                }
-            }
-        }
-
-        int level=1;
-        while(q.size()){
-            int size=q.size();
-            while(size--){
-                auto temp=q.front();
-                q.pop();
-                int x=temp.first;
-                int y=temp.second;
-                for(auto it:dir){
-                    int nx=x+it.first;
-                    int ny=y+it.second;
-                    if(nx>=0 && ny>=0 && nx<n && ny<m && dist[nx][ny]==INT_MAX && grid[nx][ny]==0){
-                        dist[nx][ny]=level;
-                        q.push({nx,ny});
+    vector<int> dx = {1, 0, 0, -1};
+    vector<int> dy = {0, -1, 1, 0};
+    int manWalk(vector<vector<int>>& grid, int m, int n) {
+        // also start time at 3
+        int time_man = 3;
+        vector<vector<int>> visited(m, vector<int>(n, 6000));
+        queue<pair<int, int>> man;
+        man.push({0, 0});
+        visited[0][0] = time_man;
+        while(!man.empty()) {
+            int q_size = man.size();
+            time_man++;
+            for (int i = 0; i < q_size; i++) {
+                auto [x, y] = man.front();
+                man.pop();
+                for (int d = 0; d < 4; d++) {
+                    int nx = x + dx[d];
+                    int ny = y + dy[d];
+                    if (nx >= 0 && nx < m && ny >=0 && ny < n && grid[nx][ny] != 2 && visited[nx][ny] == 6000) {
+                        man.push({nx, ny});
+                        visited[nx][ny] = time_man;
                     }
                 }
             }
-            level++;
         }
+    // man can never reach safehouse 
+    if (visited[m-1][n-1] == 6000) return -1;
+    // fire can never reach safehouse
+    if (grid[m-1][n-1] == 0) return 1e9;
+    // man reach safehouse latter than fire
+    if (grid[m-1][n-1] - visited[m-1][n-1] < 0) return -1;
+    int diff = grid[m - 1][n - 1] - visited[m - 1][n - 1];
+    bool fire_from_top = (grid[m - 1][n - 1] - grid[m - 2][n - 1] == 1);
+    bool fire_from_left = (grid[m - 1][n - 1] - grid[m - 1][n - 2] == 1);
+    bool man_from_top = (visited[m - 1][n - 1] - visited[m - 2][n - 1] == 1);
+    bool man_from_left = (visited[m - 1][n - 1] - visited[m - 1][n - 2] == 1);
+    // fire can reach safehouse from upper and left
+    if(fire_from_top && fire_from_left) return diff - 1;
+    // fire can'n reach safehouse from upper and left, but man can
+    else if(man_from_top && man_from_left) return diff;
+    // fire and man reach safehouse same from upper or left
+    else if(fire_from_top && man_from_top || fire_from_left && man_from_left) return diff - 1;
+    // not same
+    else return diff;
     }
-    bool check(int mid,vector<vector<int>>&dist){
-        queue<vector<int>>q;
-        q.push({0,0,mid});
-           int vis[n][m];
-        memset(vis,0,sizeof(vis));
-        while(!q.empty()){
-            auto x=q.front();
-            q.pop();
-            int row=x[0];
-            int col=x[1];
-            int cost=x[2];
-            vis[row][col]=1;
-            if(row==n-1 && col==m-1){
-                return true;
-            }
-            for(auto it:dir){
-                int nx=row+it.first;
-                int ny=col+it.second;
-                if(nx>=0 && ny>=0 && nx<n && ny<m && dist[nx][ny]!=-1 && !vis[nx][ny] &&((nx==n-1 && ny==m-1 && cost+1<=dist[nx][ny])||(cost+1<dist[nx][ny]))){
-                    q.push({nx,ny,cost+1});
-                
-                }
-               
-            }
-        }
-        return false;
-    }
+public:
     int maximumMinutes(vector<vector<int>>& grid) {
-        n=grid.size();
-        m=grid[0].size();
-        vector<vector<int>>dist(n,vector<int>(m,INT_MAX));
-        find(grid,dist);
-        int l=0,r=1e9;
-        int mid;
-        int ans=-1;
-        while(l<=r){
-            mid=(l+r)/2;
-            if(check(mid,dist)){
-                l=mid+1;
-                ans=mid;
-            }
-            else{
-                r=mid-1;
+        int m = grid.size(), n = grid[0].size();
+        queue<pair<int, int>> q;
+
+        // put fire into queue
+        for (int i = 0; i < m; ++i) {
+            for (int j = 0; j < n; ++j) {
+                if (grid[i][j] == 1) {
+                    q.push({i,j});
+                }
             }
         }
-        return ans;
+        // BFS where fire can reach, start time at 3
+        int time = 3;
+        while(!q.empty()) {
+            int q_size = q.size();
+            for (int i = 0; i < q_size; i++) {
+                auto [x, y] = q.front();
+                grid[x][y] = time;
+                q.pop();
+                for (int d = 0; d < 4; d++) {
+                    int nx = x + dx[d];
+                    int ny = y + dy[d];
+                    if (nx >= 0 && nx < m && ny >=0 && ny < n && grid[nx][ny] == 0) {
+                        q.push({nx, ny});
+                    }
+                }
+            }
+            time++;
+        }
+        return manWalk(grid, m, n);
     }
 };
