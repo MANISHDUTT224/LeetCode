@@ -148,6 +148,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0046-permutations](https://github.com/MANISHDUTT224/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/MANISHDUTT224/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/MANISHDUTT224/LeetCode/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MANISHDUTT224/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0032-longest-valid-parentheses](https://github.com/MANISHDUTT224/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/MANISHDUTT224/LeetCode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0065-valid-number) |
+| [0068-text-justification](https://github.com/MANISHDUTT224/LeetCode/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/MANISHDUTT224/LeetCode/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/MANISHDUTT224/LeetCode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/MANISHDUTT224/LeetCode/tree/master/0139-word-break) |
@@ -679,6 +681,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/MANISHDUTT224/LeetCode/tree/master/0068-text-justification) |
 | [0592-fraction-addition-and-subtraction](https://github.com/MANISHDUTT224/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0735-asteroid-collision](https://github.com/MANISHDUTT224/LeetCode/tree/master/0735-asteroid-collision) |
 | [0906-walking-robot-simulation](https://github.com/MANISHDUTT224/LeetCode/tree/master/0906-walking-robot-simulation) |
