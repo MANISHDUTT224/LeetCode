@@ -12,6 +12,9 @@
 class Solution {
 public:
     TreeNode* recoverFromPreorder(string traversal) {
+        cin.tie(0);
+        cout.tie(0);
+        ios::sync_with_stdio(false);
         int index=0;
         return traverse(traversal,index,0);
     }
