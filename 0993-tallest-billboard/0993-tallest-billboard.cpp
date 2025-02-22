@@ -1,24 +1,27 @@
 class Solution {
 public:
     int tallestBillboard(vector<int>& rods) {
-        unordered_map<int,int>dp;
-        dp[0]=0;
+        int s=0;
         for(int r:rods){
-            unordered_map<int,int>newdp(dp);
-            for(auto it:dp){
-                int diff=it.first;
-                int taller=it.second;
-                int shorter=taller-diff;
-                int newtaller=newdp[diff+r];
-                newdp[diff+r]=max(newtaller,taller+r);
-                int newdiff=abs(shorter+r-taller);
-                int newtaller2=max(shorter+r,taller);
-                newdp[newdiff]=max(newtaller2,newdp[newdiff]);
-            }
-            dp=newdp;
+            s+=r;
 
+        }
+        int dp[s+1];
+        dp[0]=0;
+        for(int i=1;i<=s;i++){
+            dp[i]=-1;
+        }
+        for(int r:rods){
+            int newdp[s+1];
+            copy(dp,dp+(s+1),newdp);
+            for(int i=0;i<=s-r;i++){
+                if(newdp[i]<0){
+                    continue;
+                }
+                dp[i+r]=max(dp[i+r],newdp[i]);
+                dp[abs(i-r)]=max(dp[abs(i-r)],min(i,r)+newdp[i]);
+            }
         }
         return dp[0];
     }
 };
- 
