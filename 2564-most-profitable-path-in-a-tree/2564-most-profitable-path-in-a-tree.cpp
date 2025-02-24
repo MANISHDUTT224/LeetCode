@@ -1,6 +1,9 @@
 class Solution {
 public:
     int mostProfitablePath(vector<vector<int>>& edges, int bob, vector<int>& amount) {
+        cin.tie(0);
+        cout.tie(0);
+        ios::sync_with_stdio(false);
         n=amount.size();
         tree.resize(n,vector<int>());
         for(vector<int>edge:edges){
