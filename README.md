@@ -186,6 +186,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0624-maximum-distance-in-arrays](https://github.com/MANISHDUTT224/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MANISHDUTT224/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/MANISHDUTT224/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0699-falling-squares](https://github.com/MANISHDUTT224/LeetCode/tree/master/0699-falling-squares) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/MANISHDUTT224/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0731-my-calendar-ii) |
@@ -1008,12 +1009,14 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Segment Tree
 |  |
 | ------- |
+| [0699-falling-squares](https://github.com/MANISHDUTT224/LeetCode/tree/master/0699-falling-squares) |
 | [0729-my-calendar-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0731-my-calendar-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/MANISHDUTT224/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Ordered Set
 |  |
 | ------- |
+| [0699-falling-squares](https://github.com/MANISHDUTT224/LeetCode/tree/master/0699-falling-squares) |
 | [0729-my-calendar-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0731-my-calendar-ii) |
 | [2434-design-a-number-container-system](https://github.com/MANISHDUTT224/LeetCode/tree/master/2434-design-a-number-container-system) |
