@@ -454,6 +454,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0472-concatenated-words](https://github.com/MANISHDUTT224/LeetCode/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/MANISHDUTT224/LeetCode/tree/master/0494-target-sum) |
 | [0583-delete-operation-for-two-strings](https://github.com/MANISHDUTT224/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
+| [0629-k-inverse-pairs-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/0629-k-inverse-pairs-array) |
 | [0650-2-keys-keyboard](https://github.com/MANISHDUTT224/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/MANISHDUTT224/LeetCode/tree/master/0664-strange-printer) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/MANISHDUTT224/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
