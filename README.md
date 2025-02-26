@@ -314,6 +314,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/MANISHDUTT224/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/MANISHDUTT224/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Two Pointers
@@ -473,6 +474,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2586-longest-square-streak-in-an-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/MANISHDUTT224/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -569,6 +571,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2716-prime-subtraction-operation](https://github.com/MANISHDUTT224/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/MANISHDUTT224/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/MANISHDUTT224/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Prefix Sum
 |  |
@@ -595,6 +598,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2691-count-vowel-strings-in-ranges](https://github.com/MANISHDUTT224/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3034-points-that-intersect-with-cars](https://github.com/MANISHDUTT224/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3427-special-array-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3427-special-array-ii) |
+| [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 ## Game Theory
 |  |
 | ------- |
@@ -1051,6 +1055,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/MANISHDUTT224/LeetCode/tree/master/0062-unique-paths) |
+| [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 ## Sliding Window
 |  |
 | ------- |
