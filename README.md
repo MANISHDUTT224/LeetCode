@@ -464,6 +464,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0993-tallest-billboard](https://github.com/MANISHDUTT224/LeetCode/tree/master/0993-tallest-billboard) |
 | [1025-minimum-cost-for-tickets](https://github.com/MANISHDUTT224/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/MANISHDUTT224/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1170-shortest-common-supersequence](https://github.com/MANISHDUTT224/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1240-stone-game-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/MANISHDUTT224/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MANISHDUTT224/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -647,6 +648,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/MANISHDUTT224/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/MANISHDUTT224/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/MANISHDUTT224/LeetCode/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/MANISHDUTT224/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/MANISHDUTT224/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/MANISHDUTT224/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
