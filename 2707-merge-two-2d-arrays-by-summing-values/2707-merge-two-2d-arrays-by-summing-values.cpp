@@ -1,6 +1,9 @@
 class Solution {
 public:
     vector<vector<int>> mergeArrays(vector<vector<int>>& nums1, vector<vector<int>>& nums2) {
+        cin.tie(0);
+        cout.tie(0);
+        ios::sync_with_stdio(false);
         vector<vector<int>>res;
         set<int>st;
         for(int i=0;i<nums1.size();i++){
