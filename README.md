@@ -225,6 +225,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1477-product-of-the-last-k-numbers](https://github.com/MANISHDUTT224/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/MANISHDUTT224/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/MANISHDUTT224/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1503-reducing-dishes](https://github.com/MANISHDUTT224/LeetCode/tree/master/1503-reducing-dishes) |
 | [1524-string-matching-in-an-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/MANISHDUTT224/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/MANISHDUTT224/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1014-k-closest-points-to-origin](https://github.com/MANISHDUTT224/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1256-rank-transform-of-an-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MANISHDUTT224/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1503-reducing-dishes](https://github.com/MANISHDUTT224/LeetCode/tree/master/1503-reducing-dishes) |
 | [2164-two-best-non-overlapping-events](https://github.com/MANISHDUTT224/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/MANISHDUTT224/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MANISHDUTT224/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0982-minimum-increment-to-make-array-unique](https://github.com/MANISHDUTT224/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1304-longest-happy-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/MANISHDUTT224/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1503-reducing-dishes](https://github.com/MANISHDUTT224/LeetCode/tree/master/1503-reducing-dishes) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/MANISHDUTT224/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -472,6 +475,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1240-stone-game-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/MANISHDUTT224/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MANISHDUTT224/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1503-reducing-dishes](https://github.com/MANISHDUTT224/LeetCode/tree/master/1503-reducing-dishes) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MANISHDUTT224/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/MANISHDUTT224/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
