@@ -586,6 +586,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2155-find-missing-observations](https://github.com/MANISHDUTT224/LeetCode/tree/master/2155-find-missing-observations) |
 | [2383-add-two-integers](https://github.com/MANISHDUTT224/LeetCode/tree/master/2383-add-two-integers) |
 | [2448-count-number-of-bad-pairs](https://github.com/MANISHDUTT224/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2649-count-total-number-of-colored-cells](https://github.com/MANISHDUTT224/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/MANISHDUTT224/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/MANISHDUTT224/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/MANISHDUTT224/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
