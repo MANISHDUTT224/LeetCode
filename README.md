@@ -183,6 +183,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0494-target-sum](https://github.com/MANISHDUTT224/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0539-minimum-time-difference](https://github.com/MANISHDUTT224/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/MANISHDUTT224/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/MANISHDUTT224/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MANISHDUTT224/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/MANISHDUTT224/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0451-sort-characters-by-frequency](https://github.com/MANISHDUTT224/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/MANISHDUTT224/LeetCode/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/MANISHDUTT224/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MANISHDUTT224/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/MANISHDUTT224/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -597,6 +599,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/MANISHDUTT224/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/MANISHDUTT224/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/MANISHDUTT224/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/MANISHDUTT224/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1240-stone-game-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/1240-stone-game-ii) |
