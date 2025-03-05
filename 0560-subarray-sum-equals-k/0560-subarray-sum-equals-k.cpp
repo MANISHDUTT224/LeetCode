@@ -1,15 +1,4 @@
-const auto _ =std::cin.tie(nullptr)->sync_with_stdio(false);
-#define l33tc0de
-#ifdef l33tc0de
-const auto __=[](){
-    struct __ {
-        static void _(){std::ofstream("display_runtime.txt")<<2300<<
-    '\n';    }
-    };
-    std::atexit(&__::_);
-    return 0;
-}();
-#endif
+
 class Solution {
 public:
 
