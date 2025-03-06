@@ -325,6 +325,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [3034-points-that-intersect-with-cars](https://github.com/MANISHDUTT224/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/MANISHDUTT224/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MANISHDUTT224/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3227-find-missing-and-repeated-values](https://github.com/MANISHDUTT224/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/MANISHDUTT224/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/MANISHDUTT224/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2755-extra-characters-in-a-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/MANISHDUTT224/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3034-points-that-intersect-with-cars](https://github.com/MANISHDUTT224/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
+| [3227-find-missing-and-repeated-values](https://github.com/MANISHDUTT224/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/MANISHDUTT224/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/MANISHDUTT224/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -617,6 +619,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2716-prime-subtraction-operation](https://github.com/MANISHDUTT224/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/MANISHDUTT224/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/MANISHDUTT224/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3227-find-missing-and-repeated-values](https://github.com/MANISHDUTT224/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Prefix Sum
@@ -971,6 +974,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/MANISHDUTT224/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/MANISHDUTT224/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/MANISHDUTT224/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/MANISHDUTT224/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/MANISHDUTT224/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Number Theory
 |  |
