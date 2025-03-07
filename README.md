@@ -615,6 +615,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2383-add-two-integers](https://github.com/MANISHDUTT224/LeetCode/tree/master/2383-add-two-integers) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/MANISHDUTT224/LeetCode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2448-count-number-of-bad-pairs](https://github.com/MANISHDUTT224/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2610-closest-prime-numbers-in-range](https://github.com/MANISHDUTT224/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/MANISHDUTT224/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/MANISHDUTT224/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/MANISHDUTT224/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -980,6 +981,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 |  |
 | ------- |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/MANISHDUTT224/LeetCode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+| [2610-closest-prime-numbers-in-range](https://github.com/MANISHDUTT224/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/MANISHDUTT224/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/MANISHDUTT224/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Counting
