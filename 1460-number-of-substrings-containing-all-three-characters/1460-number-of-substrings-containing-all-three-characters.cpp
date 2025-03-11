@@ -5,7 +5,6 @@ public:
         cin.tie(nullptr);
         cout.tie(nullptr);
         int i=0; 
-        int j=0;
         int ans=0;
         vector<int>v(3,0);
         for(int j=0; j<s.length(); j++){
