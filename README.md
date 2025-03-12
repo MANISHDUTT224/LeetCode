@@ -167,6 +167,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0046-permutations](https://github.com/MANISHDUTT224/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/MANISHDUTT224/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/MANISHDUTT224/LeetCode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/MANISHDUTT224/LeetCode/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -595,6 +596,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/MANISHDUTT224/LeetCode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/MANISHDUTT224/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/MANISHDUTT224/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0264-ugly-number-ii) |
