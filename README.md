@@ -1197,4 +1197,8 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 |  |
 | ------- |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/MANISHDUTT224/LeetCode/tree/master/0877-shortest-path-visiting-all-nodes) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/MANISHDUTT224/LeetCode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
