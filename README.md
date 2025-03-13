@@ -163,6 +163,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0033-search-in-rotated-sorted-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/MANISHDUTT224/LeetCode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/MANISHDUTT224/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/MANISHDUTT224/LeetCode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/MANISHDUTT224/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/MANISHDUTT224/LeetCode/tree/master/0046-permutations) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0001-two-sum](https://github.com/MANISHDUTT224/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MANISHDUTT224/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/MANISHDUTT224/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/MANISHDUTT224/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/MANISHDUTT224/LeetCode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/MANISHDUTT224/LeetCode/tree/master/0127-word-ladder) |
@@ -963,6 +965,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/MANISHDUTT224/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/MANISHDUTT224/LeetCode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0074-search-a-2d-matrix) |
