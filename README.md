@@ -84,6 +84,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/MANISHDUTT224/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3427-special-array-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -344,6 +345,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/MANISHDUTT224/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3643-zero-array-transformation-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -660,6 +662,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [3034-points-that-intersect-with-cars](https://github.com/MANISHDUTT224/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3427-special-array-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3427-special-array-ii) |
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Game Theory
 |  |
 | ------- |
