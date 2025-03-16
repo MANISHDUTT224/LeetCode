@@ -179,6 +179,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0074-search-a-2d-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MANISHDUTT224/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0118-pascals-triangle](https://github.com/MANISHDUTT224/LeetCode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/MANISHDUTT224/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/MANISHDUTT224/LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/MANISHDUTT224/LeetCode/tree/master/0169-majority-element) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0053-maximum-subarray](https://github.com/MANISHDUTT224/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/MANISHDUTT224/LeetCode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/MANISHDUTT224/LeetCode/tree/master/0072-edit-distance) |
+| [0118-pascals-triangle](https://github.com/MANISHDUTT224/LeetCode/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/MANISHDUTT224/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/MANISHDUTT224/LeetCode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/MANISHDUTT224/LeetCode/tree/master/0221-maximal-square) |
