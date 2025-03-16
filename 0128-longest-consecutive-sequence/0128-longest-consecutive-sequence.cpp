@@ -10,7 +10,7 @@ public:
             return n;
         }
         set<int>st(nums.begin(),nums.end());
-        int longest=1;
+        int longest=0;
         for(auto it:nums){
             if(st.find(it-1)==st.end()){
                 int len=1;
