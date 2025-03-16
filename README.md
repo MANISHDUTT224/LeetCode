@@ -185,6 +185,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0118-pascals-triangle](https://github.com/MANISHDUTT224/LeetCode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/MANISHDUTT224/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/MANISHDUTT224/LeetCode/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/MANISHDUTT224/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/MANISHDUTT224/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/0189-rotate-array) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0072-edit-distance](https://github.com/MANISHDUTT224/LeetCode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/MANISHDUTT224/LeetCode/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/MANISHDUTT224/LeetCode/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/MANISHDUTT224/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/MANISHDUTT224/LeetCode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/MANISHDUTT224/LeetCode/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/MANISHDUTT224/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
