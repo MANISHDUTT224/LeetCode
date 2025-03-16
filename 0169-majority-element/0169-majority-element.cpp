@@ -1,20 +1,29 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        cin.tie(0);
-        cout.tie(0);
-        ios::sync_with_stdio(false);
-        unordered_map<int,int>mp;
-        for(int i:nums){
-            mp[i]++;
-        }
-        int n=nums.size();
-        for(auto it:mp){
-            if(it.second>n/2){
-                return it.first;
+        int ele,cnt=0;
+        for(int i=0;i<nums.size();i++){
+            if(cnt==0){
+                cnt++;
+                ele=nums[i];
+            }
+            else if(nums[i]==ele){
+                cnt++;
+
+            }
+            else{
+                cnt--;
             }
         }
+        int cnt1=0;
+        for(int i=0;i<nums.size();i++){
+            if(nums[i]==ele){cnt1++;}
+            
+        }
+        if(cnt1>=nums.size()/2){
+            return ele;
+        }
         return 0;
+        
     }
-    
 };
