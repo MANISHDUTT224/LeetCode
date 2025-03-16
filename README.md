@@ -174,6 +174,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0049-group-anagrams](https://github.com/MANISHDUTT224/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MANISHDUTT224/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/MANISHDUTT224/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/MANISHDUTT224/LeetCode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/MANISHDUTT224/LeetCode/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0016-3sum-closest](https://github.com/MANISHDUTT224/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/MANISHDUTT224/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/MANISHDUTT224/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/MANISHDUTT224/LeetCode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/MANISHDUTT224/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
