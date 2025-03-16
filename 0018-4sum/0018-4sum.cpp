@@ -1,12 +1,9 @@
 class Solution {
 public:
     vector<vector<int>> fourSum(vector<int>& nums, int target) {
-        cin.tie(0);
-        cout.tie(0);
-        ios::sync_with_stdio(false);
-        sort(nums.begin(),nums.end());
         int n=nums.size();
-        vector<vector<int>> res;
+        vector<vector<int>>res;
+        sort(nums.begin(),nums.end());
         for(int i=0;i<n;i++){
             if(i>0 && nums[i]==nums[i-1]){
                 continue;
@@ -17,10 +14,7 @@ public:
                 }
                 int k=j+1,l=n-1;
                 while(k<l){
-                    long long sum=nums[i];
-                    sum+=nums[j];
-                    sum+=nums[k];
-                    sum+=nums[l];
+                    long long sum=nums[i]+nums[j]+nums[k]+nums[l];
                     if(sum<target){
                         k++;
                     }
@@ -28,7 +22,8 @@ public:
                         l--;
                     }
                     else{
-                        vector<int> ans={nums[i],nums[j],nums[k],nums[l]};
+                        vector<int>temp={nums[i],nums[j],nums[k],nums[l]};
+                        
                         k++;
                         l--;
                         while(k<l && nums[k]==nums[k-1]){
@@ -37,11 +32,11 @@ public:
                         while(k<l && nums[l]==nums[l+1]){
                             l--;
                         }
-                        res.push_back(ans);
+                        res.push_back(temp);
                     }
                 }
             }
-    }
-    return res;
+        }
+        return res;
     }
 };
