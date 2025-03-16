@@ -178,6 +178,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0074-search-a-2d-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MANISHDUTT224/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0128-longest-consecutive-sequence](https://github.com/MANISHDUTT224/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/MANISHDUTT224/LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/MANISHDUTT224/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0179-largest-number) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0037-sudoku-solver](https://github.com/MANISHDUTT224/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/MANISHDUTT224/LeetCode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/MANISHDUTT224/LeetCode/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/MANISHDUTT224/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/MANISHDUTT224/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/MANISHDUTT224/LeetCode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/MANISHDUTT224/LeetCode/tree/master/0146-lru-cache) |
@@ -966,6 +968,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/MANISHDUTT224/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/MANISHDUTT224/LeetCode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/MANISHDUTT224/LeetCode/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/MANISHDUTT224/LeetCode/tree/master/0854-making-a-large-island) |
