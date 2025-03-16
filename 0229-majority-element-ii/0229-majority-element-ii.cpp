@@ -1,50 +1,45 @@
 class Solution {
 public:
     vector<int> majorityElement(vector<int>& nums) {
-        cin.tie(0);
-        cout.tie(0);
-        ios::sync_with_stdio(false);
-       vector<int> ls;
-       int el1=INT_MIN,el2=INT_MIN;
-       int cnt1=0,cnt2=0;
-       for(int i=0;i<nums.size();i++){
-        if(cnt1==0 && nums[i]!=el2){
-            cnt1=1;
-            el1=nums[i];
+        int ele,ele1;
+        int cnt01=0,cnt02=0;
+        for(int i=0;i<nums.size();i++){
+            if(cnt01==0 && ele1!=nums[i]){
+                cnt01++;
+                ele=nums[i];
+            }
+            else if(cnt02==0 && ele!=nums[i]){
+                cnt02++;
+                ele1=nums[i];
+            }
+            else if(ele==nums[i]){
+                cnt01++;
+            }
+            else if(ele1==nums[i]){
+                cnt02++;
+            }
+            else{
+                cnt01--;
+                cnt02--;
+            }
         }
-        else if(cnt2==0 && nums[i]!=el1){
-            cnt2=1;
-            el2=nums[i];
+        vector<int>res;
+        int n=nums.size();
+        int count1=0,count2=0;
+        for(int i=0;i<n;i++){
+            if(nums[i]==ele){
+                count1++;
+            }
+            else if(nums[i]==ele1){
+                count2++;
+            }
         }
-        else if(nums[i]==el1){
-            cnt1++;
+        if(count1>n/3){
+            res.push_back(ele);
         }
-        else if(nums[i]==el2){
-            cnt2++;
+        if(count2>n/3){
+            res.push_back(ele1);
         }
-        else{
-            cnt1--;
-            cnt2--;
-        }
-       }
-       
-       cnt1=0,cnt2=0;
-       for(int i=0;i<nums.size();i++){
-        if(nums[i]==el1){
-            cnt1++;
-        }
-        else if(nums[i]==el2){
-            cnt2++;
-        }
-       }
-      
-       int check=int(nums.size()/3);
-       if(cnt1>check){
-        ls.push_back(el1);
-       }
-       if(cnt2>check){
-        ls.push_back(el2);
-       }
-       return ls;
+        return res;
     }
 };
