@@ -1,19 +1,18 @@
 class Solution {
 public:
-    bool search(vector<int>& arr, int target) {
-        int n=arr.size();
-        int i=0,j=n-1;
+    bool search(vector<int>& nums, int target) {
+        int i=0,j=nums.size()-1;
         while(i<=j){
             int mid=(i+j)/2;
-            if(arr[mid]==target){
+            if(nums[mid]==target){
                 return true;
             }
-            if(arr[i]==arr[mid] && arr[j]==arr[mid]){
+            if(nums[i]==nums[mid] && nums[j]==nums[mid]){
                 i++;
                 j--;
             }
-            else if(arr[i]<=arr[mid]){
-                if(arr[i]<=target && target<=arr[mid]){
+            else if(nums[i]<=nums[mid]){
+                if(nums[i]<=target && target<=nums[mid]){
                     j=mid-1;
                 }
                 else{
@@ -21,7 +20,7 @@ public:
                 }
             }
             else{
-                if(arr[mid]<=target && target<=arr[j]){
+                if(nums[mid]<=target && target<=nums[j]){
                     i=mid+1;
                 }
                 else{
