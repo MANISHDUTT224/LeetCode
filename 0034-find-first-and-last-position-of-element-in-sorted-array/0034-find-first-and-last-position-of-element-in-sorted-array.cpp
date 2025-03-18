@@ -7,12 +7,7 @@ public:
         while(l<=r){
             int mid=(l+r)/2;
             if(nums[mid]==target){
-               
-               
                     first=mid;
-                
-                
-            
                 r=mid-1;
             }
             else if(nums[mid]<target){
@@ -25,7 +20,7 @@ public:
         l=0,r=nums.size()-1;
         while(l<=r){
             int mid=(l+r)/2;
-            if(nums[mid]==target && mid!=first){
+            if(nums[mid]==target ){
                 last=mid;
                 l=mid+1;
             } 
