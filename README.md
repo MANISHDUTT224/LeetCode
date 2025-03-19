@@ -364,6 +364,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [3427-special-array-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/MANISHDUTT224/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
@@ -697,6 +698,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2691-count-vowel-strings-in-ranges](https://github.com/MANISHDUTT224/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3034-points-that-intersect-with-cars](https://github.com/MANISHDUTT224/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3427-special-array-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3427-special-array-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Game Theory
@@ -819,6 +821,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [3291-find-if-array-can-be-sorted](https://github.com/MANISHDUTT224/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/MANISHDUTT224/LeetCode/tree/master/3394-minimum-array-end) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Simulation
 |  |
 | ------- |
@@ -1158,6 +1161,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0859-design-circular-deque](https://github.com/MANISHDUTT224/LeetCode/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/MANISHDUTT224/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2868-continuous-subarrays](https://github.com/MANISHDUTT224/LeetCode/tree/master/2868-continuous-subarrays) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1199,6 +1203,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/MANISHDUTT224/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Divide and Conquer
 |  |
