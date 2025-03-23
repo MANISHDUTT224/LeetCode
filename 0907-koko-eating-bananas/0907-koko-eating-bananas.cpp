@@ -1,21 +1,29 @@
 class Solution {
 public:
+  long findhours(vector<int> &v, int hourly) {
+    long  totalH = 0;
+    int n = v.size();
+    //find total hours:
+    for (int i = 0; i < n; i++) {
+        totalH += ceil((double)v[i]/(double)hourly);
+    }
+    return totalH;
+}
     int minEatingSpeed(vector<int>& piles, int h) {
-        int max1=*max_element(piles.begin(),piles.end());
-        int l=1,r=max1,mid;
-        while(l<=r){
-            mid=(l+r)/2;
-            long long ans=0;
-            for(int x:piles){
-                ans+=(x+mid-1)/mid;
-            }
-            if(ans>h){
-                l=mid+1;
+        int maxi=*max_element(piles.begin(),piles.end());
+        int i=1,j=maxi;
+        int ans=INT_MIN;
+        while(i<=j){
+            int mid=(i+j)/2;
+            long totalhours=findhours(piles,mid);
+            if(totalhours<=h){
+                ans=mid;
+                j=mid-1;
             }
             else{
-                r=mid-1;
+                i=mid+1;
             }
         }
-        return l;
+        return ans;
     }
 };
