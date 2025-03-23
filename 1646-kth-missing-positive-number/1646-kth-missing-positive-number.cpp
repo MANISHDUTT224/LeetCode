@@ -1,23 +1,17 @@
 class Solution {
 public:
     int findKthPositive(vector<int>& arr, int k) {
-        cin.tie(0);
-        cout.tie(0);
-        ios::sync_with_stdio(false);
-        int counter=1;
-        int  c=0;
-        while(c!=k){
-            if(find(arr.begin(),arr.end(),counter)!=arr.end()){
-                counter++;
+        int i=0,j=arr.size()-1;
+        while(i<=j){
+            int mid=(i+j)/2;
+            int missing=arr[mid]-(mid+1);
+            if(missing<k){
+                i=mid+1;
             }
             else{
-                counter++;
-                c++;
+                j=mid-1;
             }
-            
         }
-  
-        
-        return counter-1;
+        return j+k+1;
     }
 };
