@@ -1,6 +1,9 @@
 class Solution {
 public:
     string convert(string s, int numRows) {
+        cin.tie(0);
+        cout.tie(0);
+        ios::sync_with_stdio(false);
         int idx=0,d=1;
         if(numRows==1){
             return s;
