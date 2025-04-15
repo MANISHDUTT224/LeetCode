@@ -82,6 +82,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2164-two-best-non-overlapping-events](https://github.com/MANISHDUTT224/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/MANISHDUTT224/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/MANISHDUTT224/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2280-count-good-triplets-in-an-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2344-escape-the-spreading-fire](https://github.com/MANISHDUTT224/LeetCode/tree/master/2344-escape-the-spreading-fire) |
 | [2586-longest-square-streak-in-an-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MANISHDUTT224/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2262-solving-questions-with-brainpower](https://github.com/MANISHDUTT224/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MANISHDUTT224/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MANISHDUTT224/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2280-count-good-triplets-in-an-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MANISHDUTT224/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/MANISHDUTT224/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/MANISHDUTT224/LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
@@ -1222,6 +1224,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0699-falling-squares](https://github.com/MANISHDUTT224/LeetCode/tree/master/0699-falling-squares) |
 | [0729-my-calendar-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0731-my-calendar-ii) |
+| [2280-count-good-triplets-in-an-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/MANISHDUTT224/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Ordered Set
 |  |
@@ -1230,6 +1233,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0699-falling-squares](https://github.com/MANISHDUTT224/LeetCode/tree/master/0699-falling-squares) |
 | [0729-my-calendar-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0731-my-calendar-ii) |
+| [2280-count-good-triplets-in-an-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/MANISHDUTT224/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/MANISHDUTT224/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Queue
@@ -1295,6 +1299,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0493-reverse-pairs](https://github.com/MANISHDUTT224/LeetCode/tree/master/0493-reverse-pairs) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/MANISHDUTT224/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1014-k-closest-points-to-origin](https://github.com/MANISHDUTT224/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [2280-count-good-triplets-in-an-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -1333,6 +1338,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/MANISHDUTT224/LeetCode/tree/master/0493-reverse-pairs) |
+| [2280-count-good-triplets-in-an-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/MANISHDUTT224/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Topological Sort
 |  |
@@ -1356,4 +1362,5 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/MANISHDUTT224/LeetCode/tree/master/0493-reverse-pairs) |
+| [2280-count-good-triplets-in-an-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
