@@ -321,6 +321,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2262-solving-questions-with-brainpower](https://github.com/MANISHDUTT224/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MANISHDUTT224/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MANISHDUTT224/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MANISHDUTT224/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/MANISHDUTT224/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
