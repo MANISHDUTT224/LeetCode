@@ -775,6 +775,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/MANISHDUTT224/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/MANISHDUTT224/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/MANISHDUTT224/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/MANISHDUTT224/LeetCode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/MANISHDUTT224/LeetCode/tree/master/0068-text-justification) |
