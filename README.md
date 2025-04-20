@@ -238,6 +238,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0780-max-chunks-to-make-sorted](https://github.com/MANISHDUTT224/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/MANISHDUTT224/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/MANISHDUTT224/LeetCode/tree/master/0792-binary-search) |
+| [0797-rabbits-in-forest](https://github.com/MANISHDUTT224/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/MANISHDUTT224/LeetCode/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/MANISHDUTT224/LeetCode/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/MANISHDUTT224/LeetCode/tree/master/0890-lemonade-change) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0768-partition-labels](https://github.com/MANISHDUTT224/LeetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/MANISHDUTT224/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0797-rabbits-in-forest](https://github.com/MANISHDUTT224/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/MANISHDUTT224/LeetCode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/MANISHDUTT224/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/MANISHDUTT224/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -628,6 +630,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0692-top-k-frequent-words](https://github.com/MANISHDUTT224/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/MANISHDUTT224/LeetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/0778-reorganize-string) |
+| [0797-rabbits-in-forest](https://github.com/MANISHDUTT224/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/MANISHDUTT224/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/MANISHDUTT224/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/MANISHDUTT224/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -703,6 +706,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0592-fraction-addition-and-subtraction](https://github.com/MANISHDUTT224/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/MANISHDUTT224/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/MANISHDUTT224/LeetCode/tree/master/0670-maximum-swap) |
+| [0797-rabbits-in-forest](https://github.com/MANISHDUTT224/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0963-three-equal-parts](https://github.com/MANISHDUTT224/LeetCode/tree/master/0963-three-equal-parts) |
 | [0994-prison-cells-after-n-days](https://github.com/MANISHDUTT224/LeetCode/tree/master/0994-prison-cells-after-n-days) |
 | [1014-k-closest-points-to-origin](https://github.com/MANISHDUTT224/LeetCode/tree/master/1014-k-closest-points-to-origin) |
