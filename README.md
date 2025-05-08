@@ -139,6 +139,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/MANISHDUTT224/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -413,6 +414,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/MANISHDUTT224/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/MANISHDUTT224/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/MANISHDUTT224/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -1053,6 +1055,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/MANISHDUTT224/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1064,6 +1067,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2803-modify-graph-edge-weights](https://github.com/MANISHDUTT224/LeetCode/tree/master/2803-modify-graph-edge-weights) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/MANISHDUTT224/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1160,6 +1164,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [3227-find-missing-and-repeated-values](https://github.com/MANISHDUTT224/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/MANISHDUTT224/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Number Theory
 |  |
 | ------- |
