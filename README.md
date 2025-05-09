@@ -246,6 +246,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0797-rabbits-in-forest](https://github.com/MANISHDUTT224/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/MANISHDUTT224/LeetCode/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/MANISHDUTT224/LeetCode/tree/master/0859-design-circular-deque) |
+| [0875-longest-mountain-in-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0890-lemonade-change](https://github.com/MANISHDUTT224/LeetCode/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/MANISHDUTT224/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/MANISHDUTT224/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0719-find-k-th-smallest-pair-distance](https://github.com/MANISHDUTT224/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/MANISHDUTT224/LeetCode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/MANISHDUTT224/LeetCode/tree/master/0868-push-dominoes) |
+| [0875-longest-mountain-in-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MANISHDUTT224/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MANISHDUTT224/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/MANISHDUTT224/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -603,6 +605,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/MANISHDUTT224/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0806-domino-and-tromino-tiling](https://github.com/MANISHDUTT224/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/MANISHDUTT224/LeetCode/tree/master/0868-push-dominoes) |
+| [0875-longest-mountain-in-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/MANISHDUTT224/LeetCode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/MANISHDUTT224/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0993-tallest-billboard](https://github.com/MANISHDUTT224/LeetCode/tree/master/0993-tallest-billboard) |
@@ -1389,6 +1392,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Enumeration
 |  |
 | ------- |
+| [0875-longest-mountain-in-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1656-count-good-triplets](https://github.com/MANISHDUTT224/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MANISHDUTT224/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/MANISHDUTT224/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
