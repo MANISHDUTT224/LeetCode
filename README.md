@@ -258,6 +258,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0906-walking-robot-simulation](https://github.com/MANISHDUTT224/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/MANISHDUTT224/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/MANISHDUTT224/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0945-snakes-and-ladders](https://github.com/MANISHDUTT224/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/MANISHDUTT224/LeetCode/tree/master/0952-word-subsets) |
 | [0963-three-equal-parts](https://github.com/MANISHDUTT224/LeetCode/tree/master/0963-three-equal-parts) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/MANISHDUTT224/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -1155,6 +1156,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0820-find-eventual-safe-states](https://github.com/MANISHDUTT224/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/MANISHDUTT224/LeetCode/tree/master/0854-making-a-large-island) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/MANISHDUTT224/LeetCode/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [0945-snakes-and-ladders](https://github.com/MANISHDUTT224/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/MANISHDUTT224/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MANISHDUTT224/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/MANISHDUTT224/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -1211,6 +1213,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0407-trapping-rain-water-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/MANISHDUTT224/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/MANISHDUTT224/LeetCode/tree/master/0854-making-a-large-island) |
+| [0945-snakes-and-ladders](https://github.com/MANISHDUTT224/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/MANISHDUTT224/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1396-count-servers-that-communicate](https://github.com/MANISHDUTT224/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MANISHDUTT224/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
