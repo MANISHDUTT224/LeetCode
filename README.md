@@ -202,6 +202,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0088-merge-sorted-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/MANISHDUTT224/LeetCode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/MANISHDUTT224/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/MANISHDUTT224/LeetCode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/MANISHDUTT224/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/MANISHDUTT224/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MANISHDUTT224/LeetCode/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/MANISHDUTT224/LeetCode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/MANISHDUTT224/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/MANISHDUTT224/LeetCode/tree/master/0435-non-overlapping-intervals) |
