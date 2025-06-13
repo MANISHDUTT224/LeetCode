@@ -15,6 +15,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0449-serialize-and-deserialize-bst](https://github.com/MANISHDUTT224/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MANISHDUTT224/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/MANISHDUTT224/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/MANISHDUTT224/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MANISHDUTT224/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/MANISHDUTT224/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/MANISHDUTT224/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0719-find-k-th-smallest-pair-distance](https://github.com/MANISHDUTT224/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0783-search-in-a-binary-search-tree](https://github.com/MANISHDUTT224/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MANISHDUTT224/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/MANISHDUTT224/LeetCode/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/MANISHDUTT224/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MANISHDUTT224/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/MANISHDUTT224/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MANISHDUTT224/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0783-search-in-a-binary-search-tree](https://github.com/MANISHDUTT224/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MANISHDUTT224/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/MANISHDUTT224/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/MANISHDUTT224/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
