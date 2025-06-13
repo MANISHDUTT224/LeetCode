@@ -1,20 +1,20 @@
 class Solution {
 public:
     bool isValid(string s) {
-        char st[1000000];
-     
-        int top=-1;
-        for(int i=0;s[i]!='\0';i++){
-            if(s[i]=='('||s[i]=='['||s[i]=='{'){
-                st[++top]=s[i];
+        stack<char>st;
+        for(char c:s){
+            if(st.empty()||c=='['||c=='{'||c=='('){
+                st.push(c);
             }
             else{
-                if((top==-1)||(st[top]!='('&& s[i]==')')||(st[top]!='[' && s[i]==']')||(st[top]!='{' && s[i]=='}')){
+                if(!st.empty() && (c==']'&& st.top()=='[')|| (c=='}' && st.top()=='{')||(c==')' && st.top()=='(')){
+                   st.pop();
+                }
+                else{
                     return false;
                 }
-                top--;
             }
         }
-        return top==-1;
+        return st.empty();
     }
 };
