@@ -462,6 +462,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0061-rotate-list](https://github.com/MANISHDUTT224/LeetCode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/MANISHDUTT224/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/MANISHDUTT224/LeetCode/tree/master/0283-move-zeroes) |
@@ -894,6 +895,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0065-valid-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/MANISHDUTT224/LeetCode/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/MANISHDUTT224/LeetCode/tree/master/0072-edit-distance) |
+| [0125-valid-palindrome](https://github.com/MANISHDUTT224/LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/MANISHDUTT224/LeetCode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/MANISHDUTT224/LeetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/0151-reverse-words-in-a-string) |
