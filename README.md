@@ -61,6 +61,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/MANISHDUTT224/LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/MANISHDUTT224/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0449-serialize-and-deserialize-bst](https://github.com/MANISHDUTT224/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0238-product-of-array-except-self](https://github.com/MANISHDUTT224/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MANISHDUTT224/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0312-burst-balloons](https://github.com/MANISHDUTT224/LeetCode/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/MANISHDUTT224/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0151-reverse-words-in-a-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/MANISHDUTT224/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/MANISHDUTT224/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/MANISHDUTT224/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -1000,6 +1003,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | ------- |
 | [0136-single-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/MANISHDUTT224/LeetCode/tree/master/0476-number-complement) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/MANISHDUTT224/LeetCode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0994-prison-cells-after-n-days](https://github.com/MANISHDUTT224/LeetCode/tree/master/0994-prison-cells-after-n-days) |
