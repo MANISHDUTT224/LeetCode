@@ -583,6 +583,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1304-longest-happy-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/MANISHDUTT224/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1503-reducing-dishes](https://github.com/MANISHDUTT224/LeetCode/tree/master/1503-reducing-dishes) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/MANISHDUTT224/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/MANISHDUTT224/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -826,6 +827,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MANISHDUTT224/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/MANISHDUTT224/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/MANISHDUTT224/LeetCode/tree/master/1500-count-largest-group) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/MANISHDUTT224/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MANISHDUTT224/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/MANISHDUTT224/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
