@@ -860,6 +860,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/MANISHDUTT224/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/MANISHDUTT224/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1461,6 +1462,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/MANISHDUTT224/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/MANISHDUTT224/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/MANISHDUTT224/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Sliding Window
 |  |
 | ------- |
