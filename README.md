@@ -1584,6 +1584,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/MANISHDUTT224/LeetCode/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/MANISHDUTT224/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/MANISHDUTT224/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/MANISHDUTT224/LeetCode/tree/master/0595-big-countries) |
