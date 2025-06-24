@@ -2,18 +2,19 @@ class Solution {
 public:
     bool uniqueOccurrences(vector<int>& arr) {
         map<int,int>mp;
-        for(int i:arr){
-            mp[i]++;
-        }
         set<int>st;
-        for(auto it:mp){
-            if(st.find(it.second)==st.end()){
-                st.insert(it.second);
-            }
-            else{
-                return false;
-            }
+        for(int num:arr)
+        {
+            mp[num]++;
+            
         }
-        return true;
+        for(auto it:mp){
+          if(it.second>0){
+            st.insert(it.second);
+          }
+        }
+        
+        set<int>st2(arr.begin(),arr.end());
+        return st.size()==st2.size();
     }
 };
