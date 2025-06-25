@@ -10,6 +10,7 @@ public:
            }
            while(j<m && version2[j]!='.'){
             num2=num2*10+version2[j]-'0';
+            j++;
            }
            if(num1>num2){
             return 1;
