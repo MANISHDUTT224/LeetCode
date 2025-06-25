@@ -15,6 +15,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MANISHDUTT224/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/MANISHDUTT224/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MANISHDUTT224/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/MANISHDUTT224/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/MANISHDUTT224/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/MANISHDUTT224/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MANISHDUTT224/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MANISHDUTT224/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/MANISHDUTT224/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MANISHDUTT224/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/MANISHDUTT224/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/MANISHDUTT224/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MANISHDUTT224/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/MANISHDUTT224/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -1155,6 +1157,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0449-serialize-and-deserialize-bst](https://github.com/MANISHDUTT224/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0472-concatenated-words](https://github.com/MANISHDUTT224/LeetCode/tree/master/0472-concatenated-words) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MANISHDUTT224/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/MANISHDUTT224/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/MANISHDUTT224/LeetCode/tree/master/0684-redundant-connection) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/MANISHDUTT224/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/MANISHDUTT224/LeetCode/tree/master/0820-find-eventual-safe-states) |
