@@ -1,11 +1,10 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        int n=s.size(),i=0;
-        string result="";
-       
+        int n=s.size();
+        int i=0;
+        string res="";
         while(i<n){
-           
             while(i<n && s[i]==' '){
                 i++;
             }
@@ -17,16 +16,14 @@ public:
                 j++;
             }
             string sub=s.substr(i,j-i);
-            cout<<sub<<i<<j<<endl;
-            if(result.size()==0){
-                result=sub;
+            if(res.size()==0){
+                res=sub;
             }
             else{
-                result=sub+" "+result;
+                res=sub+" "+res;
             }
-            
             i=j+1;
         }
-        return result;
+        return res;
     }
 };
