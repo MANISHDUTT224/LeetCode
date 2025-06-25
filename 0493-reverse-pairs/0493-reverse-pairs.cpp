@@ -26,9 +26,6 @@ public:
         }
     }
     int countpairs(vector<int>&nums,int low,int mid,int high){
-        cin.tie(0);
-        cout.tie(0);
-        ios::sync_with_stdio(false);
         int j=mid+1;
         int count=0;
         for(int i=low;i<=mid;i++){
