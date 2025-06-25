@@ -17,11 +17,10 @@ public:
 class Solution {
 public:
     Node* copyRandomList(Node* head) {
-        cin.tie(0);
-        cout.tie(0);
-        ios::sync_with_stdio(false);
-         if(!head) return nullptr;
-        unordered_map<Node*,Node*> old_to_new;
+        if(!head){
+            return nullptr;
+        }
+        unordered_map<Node*,Node*>old_to_new;
         Node *curr=head;
         while(curr){
             old_to_new[curr]=new Node(curr->val);
