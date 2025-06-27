@@ -1,9 +1,9 @@
 class Solution {
 public:
-void merge(vector<int>&nums,int low,int mid,int high){
-        int i=low,j=mid+1;
+    void merge(vector<int>&nums,int l,int mid,int r){
+        int i=l,j=mid+1;
         vector<int>temp;
-        while(i<=mid && j<=high){
+        while(i<=mid && j<=r){
             if(nums[i]<=nums[j]){
                 temp.push_back(nums[i]);
                 i++;
@@ -17,31 +17,32 @@ void merge(vector<int>&nums,int low,int mid,int high){
             temp.push_back(nums[i]);
             i++;
         }
-        while(j<=high){
+        while(j<=r){
             temp.push_back(nums[j]);
             j++;
         }
-        for(int i=low;i<=high;i++){
-            nums[i]=temp[i-low];
+        
+        for(int i=l;i<=r;i++){
+            nums[i]=temp[i-l];
         }
     }
-    int countpairs(vector<int>&nums,int i,int mid,int j){
-        int k=mid+1;
-        int count=0;
-        for(int l=i;l<=mid;l++){
-            while(k<=j && (long long)nums[l]>(long long)2*nums[k]){
-                k++;
+    int countpairs(vector<int>&nums,int l,int mid,int r){
+        int j=mid+1;
+        int cnt=0;
+        for(int i=l;i<=mid;i++){
+            while(j<=r && (long long)nums[i]>(long long)nums[j]*2){
+                j++;
             }
-            count+=(k-(mid+1));
+            cnt+=(j-(mid+1));
         }
-        
-        return count;
+        return cnt;
     }
     int mergesort(vector<int>&nums,int l,int r){
         int cnt=0;
         if(l>=r){
             return cnt;
         }
+        
         int mid=(l+r)/2;
         cnt+=mergesort(nums,l,mid);
         cnt+=mergesort(nums,mid+1,r);
