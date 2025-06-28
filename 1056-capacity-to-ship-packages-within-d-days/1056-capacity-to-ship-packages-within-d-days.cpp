@@ -1,7 +1,7 @@
 class Solution {
 public:
-    int findays(int mid,vector<int>&weights){
-        int load=0,days=1;
+    int findDays(vector<int>&weights,int mid){
+        int days=1,load=0;
         for(int i=0;i<weights.size();i++){
             if(load+weights[i]>mid){
                 load=weights[i];
@@ -17,8 +17,8 @@ public:
         int ans=-1,i=*max_element(weights.begin(),weights.end()),j=accumulate(weights.begin(),weights.end(),0);
         while(i<=j){
             int mid=(i+j)/2;
-            int mindays=findays(mid,weights);
-            if(mindays<=days){
+            int totaldays=findDays(weights,mid);
+            if(totaldays<=days){
                 ans=mid;
                 j=mid-1;
             }
