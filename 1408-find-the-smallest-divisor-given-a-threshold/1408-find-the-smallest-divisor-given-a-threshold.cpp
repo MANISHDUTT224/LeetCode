@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int sumByD(int mid,vector<int>&nums){
+    long sumByD(vector<int>&nums,int mid){
         int total=0;
         for(int i=0;i<nums.size();i++){
             total+=ceil((double)nums[i]/(double)mid);
@@ -12,7 +12,7 @@ public:
         int ans=-1;
         while(i<=j){
             int mid=(i+j)/2;
-            if(sumByD(mid,nums)<=threshold){
+            if(sumByD(nums,mid)<=threshold){
                 ans=mid;
                 j=mid-1;
             }
