@@ -6,7 +6,6 @@ public:
             int mid=(i+j)/2;
             int missing=arr[mid]-(mid+1);
             if(missing<k){
-              
                 i=mid+1;
             }
             else{
