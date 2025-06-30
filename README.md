@@ -266,6 +266,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0540-single-element-in-a-sorted-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MANISHDUTT224/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/MANISHDUTT224/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0594-longest-harmonious-subsequence](https://github.com/MANISHDUTT224/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0624-maximum-distance-in-arrays](https://github.com/MANISHDUTT224/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MANISHDUTT224/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/MANISHDUTT224/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -553,6 +554,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0451-sort-characters-by-frequency](https://github.com/MANISHDUTT224/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/MANISHDUTT224/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/MANISHDUTT224/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0594-longest-harmonious-subsequence](https://github.com/MANISHDUTT224/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MANISHDUTT224/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/MANISHDUTT224/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/MANISHDUTT224/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -778,6 +780,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0496-next-greater-element-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/MANISHDUTT224/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/MANISHDUTT224/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MANISHDUTT224/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/MANISHDUTT224/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/MANISHDUTT224/LeetCode/tree/master/0768-partition-labels) |
@@ -1384,6 +1387,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0229-majority-element-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/MANISHDUTT224/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/MANISHDUTT224/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/MANISHDUTT224/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/MANISHDUTT224/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/MANISHDUTT224/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -1553,6 +1557,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0219-contains-duplicate-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0480-sliding-window-median](https://github.com/MANISHDUTT224/LeetCode/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/MANISHDUTT224/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MANISHDUTT224/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/MANISHDUTT224/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/MANISHDUTT224/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
