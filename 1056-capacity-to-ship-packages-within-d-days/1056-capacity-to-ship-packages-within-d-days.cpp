@@ -14,7 +14,9 @@ public:
         return days;
     }
     int shipWithinDays(vector<int>& weights, int days) {
-        int ans=-1,i=*max_element(weights.begin(),weights.end()),j=accumulate(weights.begin(),weights.end(),0);
+        int i=*max_element(weights.begin(),weights.end());
+        int j=accumulate(weights.begin(),weights.end(),0);
+        int ans=-1;
         while(i<=j){
             int mid=(i+j)/2;
             int totaldays=findDays(weights,mid);
