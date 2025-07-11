@@ -3,6 +3,9 @@ public:
     bool Possible(vector<int>&nums,int mid,int k){
         int count=1,sm=0;
         for(int i=0;i<nums.size();i++){
+            if(nums[i]>mid){
+                return false;
+            }
             if(sm+nums[i]>mid){
                 sm=nums[i];
                 count++;
