@@ -143,6 +143,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/MANISHDUTT224/LeetCode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2434-design-a-number-container-system](https://github.com/MANISHDUTT224/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MANISHDUTT224/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/MANISHDUTT224/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/MANISHDUTT224/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/MANISHDUTT224/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2681-put-marbles-in-bags](https://github.com/MANISHDUTT224/LeetCode/tree/master/2681-put-marbles-in-bags) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2465-shifting-letters-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MANISHDUTT224/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/MANISHDUTT224/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [2479-meeting-rooms-iii](https://github.com/MANISHDUTT224/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2486-most-frequent-even-element](https://github.com/MANISHDUTT224/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/MANISHDUTT224/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/MANISHDUTT224/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MANISHDUTT224/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/MANISHDUTT224/LeetCode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MANISHDUTT224/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/MANISHDUTT224/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/MANISHDUTT224/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2554-minimum-total-distance-traveled](https://github.com/MANISHDUTT224/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/MANISHDUTT224/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -843,6 +846,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2434-design-a-number-container-system](https://github.com/MANISHDUTT224/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/MANISHDUTT224/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MANISHDUTT224/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/MANISHDUTT224/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2486-most-frequent-even-element](https://github.com/MANISHDUTT224/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MANISHDUTT224/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -1156,6 +1160,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/MANISHDUTT224/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/MANISHDUTT224/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2470-removing-stars-from-a-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [2479-meeting-rooms-iii](https://github.com/MANISHDUTT224/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/MANISHDUTT224/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/MANISHDUTT224/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
