@@ -693,6 +693,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0725-split-linked-list-in-parts](https://github.com/MANISHDUTT224/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [0838-design-linked-list](https://github.com/MANISHDUTT224/LeetCode/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/MANISHDUTT224/LeetCode/tree/master/0859-design-circular-deque) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MANISHDUTT224/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1484-linked-list-in-binary-tree](https://github.com/MANISHDUTT224/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MANISHDUTT224/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/MANISHDUTT224/LeetCode/tree/master/2374-steps-to-make-array-non-decreasing) |
@@ -915,6 +916,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0994-prison-cells-after-n-days](https://github.com/MANISHDUTT224/LeetCode/tree/master/0994-prison-cells-after-n-days) |
 | [1014-k-closest-points-to-origin](https://github.com/MANISHDUTT224/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1240-stone-game-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/1240-stone-game-ii) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MANISHDUTT224/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MANISHDUTT224/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MANISHDUTT224/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/MANISHDUTT224/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
