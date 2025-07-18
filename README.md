@@ -357,6 +357,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/MANISHDUTT224/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/MANISHDUTT224/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1833-find-the-highest-altitude](https://github.com/MANISHDUTT224/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/MANISHDUTT224/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/MANISHDUTT224/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -991,6 +992,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1537-maximum-score-after-splitting-a-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MANISHDUTT224/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/MANISHDUTT224/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+| [1833-find-the-highest-altitude](https://github.com/MANISHDUTT224/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MANISHDUTT224/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/MANISHDUTT224/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MANISHDUTT224/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
