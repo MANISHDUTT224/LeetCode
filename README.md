@@ -310,6 +310,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1002-maximum-width-ramp](https://github.com/MANISHDUTT224/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1014-k-closest-points-to-origin](https://github.com/MANISHDUTT224/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1025-minimum-cost-for-tickets](https://github.com/MANISHDUTT224/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
+| [1031-add-to-array-form-of-integer](https://github.com/MANISHDUTT224/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/MANISHDUTT224/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/MANISHDUTT224/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/MANISHDUTT224/LeetCode/tree/master/1063-best-sightseeing-pair) |
@@ -933,6 +934,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0963-three-equal-parts](https://github.com/MANISHDUTT224/LeetCode/tree/master/0963-three-equal-parts) |
 | [0994-prison-cells-after-n-days](https://github.com/MANISHDUTT224/LeetCode/tree/master/0994-prison-cells-after-n-days) |
 | [1014-k-closest-points-to-origin](https://github.com/MANISHDUTT224/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1031-add-to-array-form-of-integer](https://github.com/MANISHDUTT224/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1240-stone-game-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/1240-stone-game-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MANISHDUTT224/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MANISHDUTT224/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
