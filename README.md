@@ -68,6 +68,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/MANISHDUTT224/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MANISHDUTT224/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/MANISHDUTT224/LeetCode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0221-maximal-square](https://github.com/MANISHDUTT224/LeetCode/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/MANISHDUTT224/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MANISHDUTT224/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -1426,6 +1428,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0074-search-a-2d-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/MANISHDUTT224/LeetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/MANISHDUTT224/LeetCode/tree/master/0221-maximal-square) |
+| [0240-search-a-2d-matrix-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0407-trapping-rain-water-ii) |
@@ -1682,6 +1685,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MANISHDUTT224/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/MANISHDUTT224/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/MANISHDUTT224/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/MANISHDUTT224/LeetCode/tree/master/0493-reverse-pairs) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/MANISHDUTT224/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
