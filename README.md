@@ -71,6 +71,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0268-missing-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/MANISHDUTT224/LeetCode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/MANISHDUTT224/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/MANISHDUTT224/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/MANISHDUTT224/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -936,6 +937,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0264-ugly-number-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/MANISHDUTT224/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0367-valid-perfect-square](https://github.com/MANISHDUTT224/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/MANISHDUTT224/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/MANISHDUTT224/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/MANISHDUTT224/LeetCode/tree/master/0564-find-the-closest-palindrome) |
