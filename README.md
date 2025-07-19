@@ -374,6 +374,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1940-maximum-xor-for-each-query](https://github.com/MANISHDUTT224/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1972-rotating-the-box](https://github.com/MANISHDUTT224/LeetCode/tree/master/1972-rotating-the-box) |
+| [1983-maximum-population-year](https://github.com/MANISHDUTT224/LeetCode/tree/master/1983-maximum-population-year) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MANISHDUTT224/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MANISHDUTT224/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MANISHDUTT224/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -1000,6 +1001,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1833-find-the-highest-altitude](https://github.com/MANISHDUTT224/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MANISHDUTT224/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/MANISHDUTT224/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
+| [1983-maximum-population-year](https://github.com/MANISHDUTT224/LeetCode/tree/master/1983-maximum-population-year) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MANISHDUTT224/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/MANISHDUTT224/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/MANISHDUTT224/LeetCode/tree/master/2145-grid-game) |
@@ -1472,6 +1474,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1786-count-the-number-of-consistent-strings](https://github.com/MANISHDUTT224/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/MANISHDUTT224/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MANISHDUTT224/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1983-maximum-population-year](https://github.com/MANISHDUTT224/LeetCode/tree/master/1983-maximum-population-year) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/MANISHDUTT224/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/MANISHDUTT224/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MANISHDUTT224/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
