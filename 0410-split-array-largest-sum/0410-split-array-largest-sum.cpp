@@ -1,29 +1,28 @@
 class Solution {
 public:
-    bool Possible(vector<int>&nums,int mid,int k){
-        int count=1,sm=0;
+    bool isPossible(vector<int>&nums,int mid,int k){
+        int sum=0,cnt=1;
         for(int i=0;i<nums.size();i++){
             if(nums[i]>mid){
                 return false;
             }
-            if(sm+nums[i]>mid){
-                sm=nums[i];
-                count++;
+            if(sum+nums[i]>mid){
+                sum=nums[i];
+                cnt++;
             }
             else{
-                sm+=nums[i];
+                sum+=nums[i];
             }
         }
-        return count<=k;
+        return cnt<=k;
     }
     int splitArray(vector<int>& nums, int k) {
-        int n=nums.size();
-        int i=min(nums[0],nums[n-1]);
+        int i=min(nums[0],nums[nums.size()-1]);
         int j=accumulate(nums.begin(),nums.end(),0);
         int ans=-1;
         while(i<=j){
-            int mid=(i+j)/2;
-            if(Possible(nums,mid,k)){
+            int mid=i+(j-i)/2;
+            if(isPossible(nums,mid,k)){
                 ans=mid;
                 j=mid-1;
             }
