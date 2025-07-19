@@ -327,6 +327,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/MANISHDUTT224/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/MANISHDUTT224/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/MANISHDUTT224/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1372-check-if-it-is-a-good-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/MANISHDUTT224/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/MANISHDUTT224/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MANISHDUTT224/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -943,6 +944,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1014-k-closest-points-to-origin](https://github.com/MANISHDUTT224/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1031-add-to-array-form-of-integer](https://github.com/MANISHDUTT224/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1240-stone-game-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/1240-stone-game-ii) |
+| [1372-check-if-it-is-a-good-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MANISHDUTT224/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MANISHDUTT224/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MANISHDUTT224/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -1453,6 +1455,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Number Theory
 |  |
 | ------- |
+| [1372-check-if-it-is-a-good-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/MANISHDUTT224/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/MANISHDUTT224/LeetCode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2610-closest-prime-numbers-in-range](https://github.com/MANISHDUTT224/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
