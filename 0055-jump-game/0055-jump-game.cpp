@@ -8,6 +8,6 @@ public:
             }
             mx=max(mx,i+nums[i]);
         }
-        return mx;
+        return true;
     }
 };
