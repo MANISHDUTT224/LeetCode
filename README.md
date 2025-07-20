@@ -711,6 +711,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MANISHDUTT224/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/MANISHDUTT224/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/MANISHDUTT224/LeetCode/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/MANISHDUTT224/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
@@ -933,6 +934,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MANISHDUTT224/LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/MANISHDUTT224/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/MANISHDUTT224/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/MANISHDUTT224/LeetCode/tree/master/0066-plus-one) |
@@ -1544,6 +1546,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MANISHDUTT224/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/MANISHDUTT224/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/MANISHDUTT224/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/MANISHDUTT224/LeetCode/tree/master/0234-palindrome-linked-list) |
