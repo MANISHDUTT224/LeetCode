@@ -1,36 +1,30 @@
 class Solution {
 public:
     string makeFancyString(string s) {
-        cin.tie(0);
-        cout.tie(0);
-        ios::sync_with_stdio(false);
         stack<char>st;
-        int count=1;
-        string res;
-        for(char c:s){
+        int cnt=1;
+        for(int i=0;i<s.size();i++){
             if(st.empty()){
-                st.push(c);
+                st.push(s[i]);
             }
-            else if(st.top()!=c){
-                st.push(c);
-                count=1;
+            else if(st.top()!=s[i]){
+                st.push(s[i]);
+                cnt=1;
             }
             else{
-                if(count<2){
-                    count++;
-                    st.push(c);
+                if(cnt<2){
+                    cnt++;
+                    st.push(s[i]);
                 }
                 else{
-                    
                     continue;
                 }
             }
-            
         }
+        string res;
         while(!st.empty()){
             res+=st.top();
             st.pop();
-
         }
         reverse(res.begin(),res.end());
         return res;
