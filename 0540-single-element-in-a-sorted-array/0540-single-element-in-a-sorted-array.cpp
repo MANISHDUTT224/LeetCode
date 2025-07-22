@@ -6,11 +6,11 @@ public:
         while(i<=j){
             int mid=i+(j-i)/2;
             int num=(mid%2==0)?mid+1:mid-1;
-            if(nums[num]==nums[mid]){
+            if(nums[mid]==nums[num]){
                 i=mid+1;
             }
             else{
-                j=mid-1;
+                j=mid;
             }
         }
         return nums[i];
