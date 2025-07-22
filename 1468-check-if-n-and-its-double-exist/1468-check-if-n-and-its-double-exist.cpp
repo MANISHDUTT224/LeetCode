@@ -1,28 +1,27 @@
 class Solution {
 public:
-    bool search(int target,int ind,vector<int>&arr){
-    
-        for(int i=0;i<arr.size();i++){
-            if(i==ind){
-                continue;
-            }
-            if(arr[i]==target){
-                return true;
-            }
-        }
-        return false;
-    }
     bool checkIfExist(vector<int>& arr) {
-        cin.tie(0);
-        cout.tie(0);
-        ios::sync_with_stdio(false);
-        
+        sort(arr.begin(),arr.end());
         for(int i=0;i<arr.size();i++){
-             
-            if(search(arr[i]*2,i,arr)){
-                return true;
+            int target=2*arr[i];
+            int j=0,k=arr.size()-1;
+            while(j<=k){
+                int mid=j+(k-j)/2;
+                if(arr[mid]==target){
+                if(mid!=i){
+                    return true;
+                }
+                else{
+                    break;
+                }
+                }
+                else if(arr[mid]<target){
+                    j=mid+1;
+                }
+                else{
+                    k=mid-1;
+                }
             }
-           
         }
         return false;
     }
