@@ -84,6 +84,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0729-my-calendar-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/MANISHDUTT224/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0755-reach-a-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0755-reach-a-number) |
 | [0783-search-in-a-binary-search-tree](https://github.com/MANISHDUTT224/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MANISHDUTT224/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/MANISHDUTT224/LeetCode/tree/master/0792-binary-search) |
@@ -967,6 +968,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0592-fraction-addition-and-subtraction](https://github.com/MANISHDUTT224/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/MANISHDUTT224/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/MANISHDUTT224/LeetCode/tree/master/0670-maximum-swap) |
+| [0755-reach-a-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0755-reach-a-number) |
 | [0797-rabbits-in-forest](https://github.com/MANISHDUTT224/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0963-three-equal-parts](https://github.com/MANISHDUTT224/LeetCode/tree/master/0963-three-equal-parts) |
 | [0994-prison-cells-after-n-days](https://github.com/MANISHDUTT224/LeetCode/tree/master/0994-prison-cells-after-n-days) |
