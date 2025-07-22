@@ -98,6 +98,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MANISHDUTT224/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/MANISHDUTT224/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/MANISHDUTT224/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/MANISHDUTT224/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1656-count-good-triplets](https://github.com/MANISHDUTT224/LeetCode/tree/master/1656-count-good-triplets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/MANISHDUTT224/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/MANISHDUTT224/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/MANISHDUTT224/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/MANISHDUTT224/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/MANISHDUTT224/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -614,6 +616,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1503-reducing-dishes](https://github.com/MANISHDUTT224/LeetCode/tree/master/1503-reducing-dishes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MANISHDUTT224/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/MANISHDUTT224/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MANISHDUTT224/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/MANISHDUTT224/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
