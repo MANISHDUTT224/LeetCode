@@ -369,6 +369,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1755-defuse-the-bomb](https://github.com/MANISHDUTT224/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/MANISHDUTT224/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1813-maximum-erasure-value](https://github.com/MANISHDUTT224/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/MANISHDUTT224/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-find-the-highest-altitude](https://github.com/MANISHDUTT224/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/MANISHDUTT224/LeetCode/tree/master/1848-sum-of-unique-elements) |
@@ -879,6 +880,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/MANISHDUTT224/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/MANISHDUTT224/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/MANISHDUTT224/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1813-maximum-erasure-value](https://github.com/MANISHDUTT224/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1848-sum-of-unique-elements](https://github.com/MANISHDUTT224/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MANISHDUTT224/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/MANISHDUTT224/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -1672,6 +1674,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/MANISHDUTT224/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/MANISHDUTT224/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/MANISHDUTT224/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [1813-maximum-erasure-value](https://github.com/MANISHDUTT224/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/MANISHDUTT224/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/MANISHDUTT224/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/MANISHDUTT224/LeetCode/tree/master/2478-longest-nice-subarray) |
