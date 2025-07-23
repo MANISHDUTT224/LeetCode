@@ -1,12 +1,22 @@
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
-        while(nums[0]!=nums[nums[0]]){
-            ios::sync_with_stdio(false);
-            cin.tie(0);
-            swap(nums[0],nums[nums[0]]);
+        int n=nums.size(),low=0,high=n-1;
+        while(low<high){
+            int cnt=0;
+            int mid=low+(high-low)/2;
+            for(int i=0;i<n;i++){
+                if(nums[i]<=mid){
+                    cnt++;
+                }
+            }
+            if(cnt<=mid){
+                low=mid+1;
+            }
+            else{
+                high=mid;
+            }
         }
-        return nums[0];
-        
+        return low;
     }
 };
