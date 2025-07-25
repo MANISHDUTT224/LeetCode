@@ -135,6 +135,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/MANISHDUTT224/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/MANISHDUTT224/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0221-maximal-square](https://github.com/MANISHDUTT224/LeetCode/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/MANISHDUTT224/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/MANISHDUTT224/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MANISHDUTT224/LeetCode/tree/master/0283-move-zeroes) |
@@ -1654,6 +1656,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/MANISHDUTT224/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/MANISHDUTT224/LeetCode/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/MANISHDUTT224/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/MANISHDUTT224/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -1695,6 +1698,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MANISHDUTT224/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/MANISHDUTT224/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0480-sliding-window-median](https://github.com/MANISHDUTT224/LeetCode/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/MANISHDUTT224/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -1771,6 +1775,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/MANISHDUTT224/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/MANISHDUTT224/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/MANISHDUTT224/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/MANISHDUTT224/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
