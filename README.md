@@ -963,6 +963,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MANISHDUTT224/LeetCode/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/MANISHDUTT224/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/MANISHDUTT224/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/MANISHDUTT224/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/MANISHDUTT224/LeetCode/tree/master/0066-plus-one) |
@@ -1086,6 +1087,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0020-valid-parentheses](https://github.com/MANISHDUTT224/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/MANISHDUTT224/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/MANISHDUTT224/LeetCode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/MANISHDUTT224/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/MANISHDUTT224/LeetCode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/MANISHDUTT224/LeetCode/tree/master/0068-text-justification) |
@@ -1239,6 +1241,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/MANISHDUTT224/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/MANISHDUTT224/LeetCode/tree/master/0068-text-justification) |
