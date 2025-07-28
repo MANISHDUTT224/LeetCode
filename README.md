@@ -243,6 +243,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0068-text-justification](https://github.com/MANISHDUTT224/LeetCode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/MANISHDUTT224/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/MANISHDUTT224/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MANISHDUTT224/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -1097,6 +1098,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0065-valid-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/MANISHDUTT224/LeetCode/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/MANISHDUTT224/LeetCode/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/MANISHDUTT224/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/MANISHDUTT224/LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/MANISHDUTT224/LeetCode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/MANISHDUTT224/LeetCode/tree/master/0139-word-break) |
@@ -1319,6 +1321,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/MANISHDUTT224/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/MANISHDUTT224/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/MANISHDUTT224/LeetCode/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MANISHDUTT224/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -1480,6 +1483,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0059-spiral-matrix-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/MANISHDUTT224/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/MANISHDUTT224/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/MANISHDUTT224/LeetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/MANISHDUTT224/LeetCode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -1574,6 +1578,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/MANISHDUTT224/LeetCode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/MANISHDUTT224/LeetCode/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/MANISHDUTT224/LeetCode/tree/master/0079-word-search) |
 | [0301-remove-invalid-parentheses](https://github.com/MANISHDUTT224/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/MANISHDUTT224/LeetCode/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/MANISHDUTT224/LeetCode/tree/master/1160-letter-tile-possibilities) |
