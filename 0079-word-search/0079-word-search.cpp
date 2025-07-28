@@ -1,40 +1,48 @@
 class Solution {
-public: 
-    bool traverse(vector<vector<char>>&board,int i,int j,int n,int m,string word,int wordind){
-        if(wordind==word.size()){
+
+    bool isValid(int row, int col, int ind, vector<vector<char>>& board, string &word){
+        if(row>=0 && row<board.size() && col>=0 && col<board[0].size() && 
+            board[row][col] == word[ind]) 
+            return true;
+        return false;
+    }
+
+    bool check(int row, int col, int ind, vector<vector<char>>& board, string &word){
+        if (board[row][col] == word[word.length() - 1] && ind == word.length() - 1) {
             return true;
         }
 
-        if(i<0 || j<0 || i>=n || j>=m || board[i][j]!=word[wordind]){
-                return false;
-            }
         
-            char back=board[i][j];
-            board[i][j]='-';
-           bool found= traverse(board,i-1,j,n,m,word,wordind+1)||
-            traverse(board,i+1,j,n,m,word,wordind+1) ||
-            traverse(board,i,j-1,n,m,word,wordind+1) ||
-            traverse(board,i,j+1,n,m,word,wordind+1);
-            board[i][j]=back;
+        char temp = word[ind];
+        board[row][col] = '#';
         
-        return found;
-    }
-    bool exist(vector<vector<char>>& board, string word) {
-        int n=board.size();
-        int m=board[0].size();
-        bool found=false;
+        int drow[] = {0, -1, 0, 1};
+        int dcol[] = {1, 0, -1, 0};
 
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(board[i][j]==word[0]){
-                
-                   if(traverse(board,i,j,n,m,word,0)){
-                    return true;
-                   }
+        for(int i=0; i<4; i++){
+            int nrow = row + drow[i];
+            int ncol = col + dcol[i];
+
+            if(isValid(nrow, ncol, ind+1, board, word)){
+                if( check(nrow, ncol, ind+1, board, word)) return true;
+            }
+        }
+        board[row][col] = temp;
+
+        return false;
+    }
+
+public:
+    bool exist(vector<vector<char>>& board, string word) {
+        
+        for(int i=0; i<board.size(); i++){
+            for(int j=0; j<board[0].size(); j++){
+                if(board[i][j] == word[0]){
+                    if( check(i, j, 0, board, word)) return true;
                 }
             }
         }
-       
+
         return false;
     }
 };
