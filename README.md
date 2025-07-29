@@ -119,6 +119,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2280-count-good-triplets-in-an-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2344-escape-the-spreading-fire](https://github.com/MANISHDUTT224/LeetCode/tree/master/2344-escape-the-spreading-fire) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/MANISHDUTT224/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/MANISHDUTT224/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2586-longest-square-streak-in-an-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MANISHDUTT224/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/MANISHDUTT224/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/MANISHDUTT224/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MANISHDUTT224/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/MANISHDUTT224/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/MANISHDUTT224/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/MANISHDUTT224/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/MANISHDUTT224/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -1233,6 +1235,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/MANISHDUTT224/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/MANISHDUTT224/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2478-longest-nice-subarray](https://github.com/MANISHDUTT224/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/MANISHDUTT224/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/MANISHDUTT224/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/MANISHDUTT224/LeetCode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/MANISHDUTT224/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -1734,6 +1737,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/MANISHDUTT224/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/MANISHDUTT224/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/MANISHDUTT224/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/MANISHDUTT224/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/MANISHDUTT224/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MANISHDUTT224/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/MANISHDUTT224/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
