@@ -44,6 +44,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0146-lru-cache](https://github.com/MANISHDUTT224/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/MANISHDUTT224/LeetCode/tree/master/0155-min-stack) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MANISHDUTT224/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0380-insert-delete-getrandom-o1](https://github.com/MANISHDUTT224/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/MANISHDUTT224/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0449-serialize-and-deserialize-bst](https://github.com/MANISHDUTT224/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0729-my-calendar-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/0729-my-calendar-i) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0347-top-k-frequent-elements](https://github.com/MANISHDUTT224/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/MANISHDUTT224/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0380-insert-delete-getrandom-o1](https://github.com/MANISHDUTT224/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0407-trapping-rain-water-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/MANISHDUTT224/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/MANISHDUTT224/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -876,6 +878,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0264-ugly-number-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/MANISHDUTT224/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/MANISHDUTT224/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/MANISHDUTT224/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/MANISHDUTT224/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -991,6 +994,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0273-integer-to-english-words](https://github.com/MANISHDUTT224/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0367-valid-perfect-square](https://github.com/MANISHDUTT224/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/MANISHDUTT224/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0380-insert-delete-getrandom-o1](https://github.com/MANISHDUTT224/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0539-minimum-time-difference](https://github.com/MANISHDUTT224/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/MANISHDUTT224/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/MANISHDUTT224/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -1877,4 +1881,8 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0278-first-bad-version](https://github.com/MANISHDUTT224/LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/MANISHDUTT224/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [1185-find-in-mountain-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/1185-find-in-mountain-array) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/MANISHDUTT224/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
