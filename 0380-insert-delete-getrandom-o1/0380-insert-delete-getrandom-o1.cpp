@@ -4,7 +4,6 @@ vector<int>values;
 unordered_map<int,int>valuesIdx;
     RandomizedSet() {
         
-
     }
     
     bool insert(int val) {
@@ -29,8 +28,8 @@ unordered_map<int,int>valuesIdx;
     }
     
     int getRandom() {
-        int index=rand()%values.size();
-        return values[index];
+        int random=rand()%values.size();
+        return values[random];
     }
 };
 
