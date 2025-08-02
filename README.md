@@ -276,6 +276,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0239-sliding-window-maximum](https://github.com/MANISHDUTT224/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/MANISHDUTT224/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/MANISHDUTT224/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0312-burst-balloons](https://github.com/MANISHDUTT224/LeetCode/tree/master/0312-burst-balloons) |
@@ -619,6 +620,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0229-majority-element-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/MANISHDUTT224/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/MANISHDUTT224/LeetCode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/MANISHDUTT224/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/MANISHDUTT224/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -1866,6 +1868,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/MANISHDUTT224/LeetCode/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/MANISHDUTT224/LeetCode/tree/master/0561-array-partition) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Interactive
