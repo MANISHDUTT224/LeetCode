@@ -232,6 +232,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0037-sudoku-solver](https://github.com/MANISHDUTT224/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/MANISHDUTT224/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/MANISHDUTT224/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/MANISHDUTT224/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/MANISHDUTT224/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/MANISHDUTT224/LeetCode/tree/master/0049-group-anagrams) |
@@ -679,6 +680,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MANISHDUTT224/LeetCode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/MANISHDUTT224/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/MANISHDUTT224/LeetCode/tree/master/0135-candy) |
@@ -772,6 +774,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0005-longest-palindromic-substring](https://github.com/MANISHDUTT224/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/MANISHDUTT224/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/MANISHDUTT224/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/MANISHDUTT224/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/MANISHDUTT224/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/MANISHDUTT224/LeetCode/tree/master/0062-unique-paths) |
