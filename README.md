@@ -1010,6 +1010,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0069-sqrtx](https://github.com/MANISHDUTT224/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MANISHDUTT224/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/MANISHDUTT224/LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/MANISHDUTT224/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0268-missing-number) |
@@ -1259,6 +1260,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 |  |
 | ------- |
 | [0136-single-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/MANISHDUTT224/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/MANISHDUTT224/LeetCode/tree/master/0476-number-complement) |
@@ -1650,6 +1652,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0021-merge-two-sorted-lists](https://github.com/MANISHDUTT224/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/MANISHDUTT224/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/MANISHDUTT224/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/MANISHDUTT224/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/MANISHDUTT224/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/MANISHDUTT224/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/MANISHDUTT224/LeetCode/tree/master/0273-integer-to-english-words) |
