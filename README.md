@@ -306,6 +306,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0493-reverse-pairs](https://github.com/MANISHDUTT224/LeetCode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/MANISHDUTT224/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/MANISHDUTT224/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/MANISHDUTT224/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MANISHDUTT224/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -1322,6 +1323,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0054-spiral-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/MANISHDUTT224/LeetCode/tree/master/0068-text-justification) |
+| [0498-diagonal-traverse](https://github.com/MANISHDUTT224/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0592-fraction-addition-and-subtraction](https://github.com/MANISHDUTT224/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0735-asteroid-collision](https://github.com/MANISHDUTT224/LeetCode/tree/master/0735-asteroid-collision) |
 | [0906-walking-robot-simulation](https://github.com/MANISHDUTT224/LeetCode/tree/master/0906-walking-robot-simulation) |
@@ -1561,6 +1563,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/MANISHDUTT224/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0787-sliding-puzzle](https://github.com/MANISHDUTT224/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/MANISHDUTT224/LeetCode/tree/master/0854-making-a-large-island) |
 | [0921-spiral-matrix-iii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0921-spiral-matrix-iii) |
