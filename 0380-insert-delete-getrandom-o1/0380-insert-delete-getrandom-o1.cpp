@@ -30,6 +30,7 @@ unordered_map<int,int>valuesIdx;
     int getRandom() {
         int random=rand()%values.size();
         return values[random];
+        
     }
 };
 
