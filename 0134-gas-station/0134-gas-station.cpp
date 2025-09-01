@@ -14,6 +14,6 @@ public:
                 start=i+1;
             }
         }
-        return curgain<0?-1:start;
+        return totalgain<0?-1:start;
     }
 };
