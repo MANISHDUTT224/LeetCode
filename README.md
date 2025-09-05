@@ -1320,6 +1320,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2533-bitwise-xor-of-all-pairings](https://github.com/MANISHDUTT224/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/MANISHDUTT224/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/MANISHDUTT224/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/MANISHDUTT224/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/MANISHDUTT224/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/MANISHDUTT224/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/MANISHDUTT224/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -1690,6 +1691,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/MANISHDUTT224/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/MANISHDUTT224/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/MANISHDUTT224/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Recursion
 |  |
 | ------- |
@@ -1903,6 +1905,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2202-sum-of-k-mirror-numbers](https://github.com/MANISHDUTT224/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/MANISHDUTT224/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/MANISHDUTT224/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/MANISHDUTT224/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2998-count-symmetric-integers](https://github.com/MANISHDUTT224/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
