@@ -351,6 +351,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0993-tallest-billboard](https://github.com/MANISHDUTT224/LeetCode/tree/master/0993-tallest-billboard) |
 | [0994-prison-cells-after-n-days](https://github.com/MANISHDUTT224/LeetCode/tree/master/0994-prison-cells-after-n-days) |
 | [1002-maximum-width-ramp](https://github.com/MANISHDUTT224/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1006-vowel-spellchecker](https://github.com/MANISHDUTT224/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1014-k-closest-points-to-origin](https://github.com/MANISHDUTT224/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1025-minimum-cost-for-tickets](https://github.com/MANISHDUTT224/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1031-add-to-array-form-of-integer](https://github.com/MANISHDUTT224/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
@@ -952,6 +953,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0952-word-subsets](https://github.com/MANISHDUTT224/LeetCode/tree/master/0952-word-subsets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/MANISHDUTT224/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0994-prison-cells-after-n-days](https://github.com/MANISHDUTT224/LeetCode/tree/master/0994-prison-cells-after-n-days) |
+| [1006-vowel-spellchecker](https://github.com/MANISHDUTT224/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/MANISHDUTT224/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/MANISHDUTT224/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/MANISHDUTT224/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -1221,6 +1223,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0920-uncommon-words-from-two-sentences](https://github.com/MANISHDUTT224/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/MANISHDUTT224/LeetCode/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/MANISHDUTT224/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1006-vowel-spellchecker](https://github.com/MANISHDUTT224/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/MANISHDUTT224/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/MANISHDUTT224/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
