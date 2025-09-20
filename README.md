@@ -59,6 +59,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2429-design-a-food-rating-system](https://github.com/MANISHDUTT224/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/MANISHDUTT224/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [3797-design-spreadsheet](https://github.com/MANISHDUTT224/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/MANISHDUTT224/LeetCode/tree/master/3827-implement-router) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [3643-zero-array-transformation-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/MANISHDUTT224/LeetCode/tree/master/3827-implement-router) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -591,6 +593,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [3790-fruits-into-baskets-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/MANISHDUTT224/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/MANISHDUTT224/LeetCode/tree/master/3827-implement-router) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1041,6 +1044,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/MANISHDUTT224/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/MANISHDUTT224/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/MANISHDUTT224/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/MANISHDUTT224/LeetCode/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/MANISHDUTT224/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -1824,6 +1828,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2868-continuous-subarrays](https://github.com/MANISHDUTT224/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/MANISHDUTT224/LeetCode/tree/master/3827-implement-router) |
 ## Queue
 |  |
 | ------- |
@@ -1835,6 +1840,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/MANISHDUTT224/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/MANISHDUTT224/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/MANISHDUTT224/LeetCode/tree/master/3827-implement-router) |
 ## Doubly-Linked List
 |  |
 | ------- |
