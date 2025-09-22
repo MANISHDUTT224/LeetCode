@@ -550,6 +550,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MANISHDUTT224/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/MANISHDUTT224/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/MANISHDUTT224/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/MANISHDUTT224/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/MANISHDUTT224/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -1032,6 +1033,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2915-count-of-interesting-subarrays](https://github.com/MANISHDUTT224/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3034-points-that-intersect-with-cars](https://github.com/MANISHDUTT224/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3227-find-missing-and-repeated-values](https://github.com/MANISHDUTT224/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/MANISHDUTT224/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/MANISHDUTT224/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/MANISHDUTT224/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -1707,6 +1709,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2486-most-frequent-even-element](https://github.com/MANISHDUTT224/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/MANISHDUTT224/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MANISHDUTT224/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/MANISHDUTT224/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/MANISHDUTT224/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/MANISHDUTT224/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
