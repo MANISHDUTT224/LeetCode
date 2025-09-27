@@ -340,6 +340,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0787-sliding-puzzle](https://github.com/MANISHDUTT224/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/MANISHDUTT224/LeetCode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/MANISHDUTT224/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/MANISHDUTT224/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/MANISHDUTT224/LeetCode/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/MANISHDUTT224/LeetCode/tree/master/0859-design-circular-deque) |
 | [0875-longest-mountain-in-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/0875-longest-mountain-in-array) |
@@ -1091,6 +1092,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0755-reach-a-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0755-reach-a-number) |
 | [0797-rabbits-in-forest](https://github.com/MANISHDUTT224/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/MANISHDUTT224/LeetCode/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/MANISHDUTT224/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/MANISHDUTT224/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/MANISHDUTT224/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0963-three-equal-parts](https://github.com/MANISHDUTT224/LeetCode/tree/master/0963-three-equal-parts) |
@@ -1956,6 +1958,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/MANISHDUTT224/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/MANISHDUTT224/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
