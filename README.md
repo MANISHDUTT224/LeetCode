@@ -370,6 +370,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/MANISHDUTT224/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/MANISHDUTT224/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/MANISHDUTT224/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/MANISHDUTT224/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/MANISHDUTT224/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1185-find-in-mountain-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/1185-find-in-mountain-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/MANISHDUTT224/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -883,6 +884,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0993-tallest-billboard](https://github.com/MANISHDUTT224/LeetCode/tree/master/0993-tallest-billboard) |
 | [1025-minimum-cost-for-tickets](https://github.com/MANISHDUTT224/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/MANISHDUTT224/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/MANISHDUTT224/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1170-shortest-common-supersequence](https://github.com/MANISHDUTT224/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1240-stone-game-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/MANISHDUTT224/LeetCode/tree/master/1250-longest-common-subsequence) |
