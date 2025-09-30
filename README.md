@@ -483,6 +483,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/MANISHDUTT224/LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/MANISHDUTT224/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2344-escape-the-spreading-fire](https://github.com/MANISHDUTT224/LeetCode/tree/master/2344-escape-the-spreading-fire) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/MANISHDUTT224/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -1126,6 +1127,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MANISHDUTT224/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/MANISHDUTT224/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/MANISHDUTT224/LeetCode/tree/master/2383-add-two-integers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/MANISHDUTT224/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/MANISHDUTT224/LeetCode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
@@ -1413,6 +1415,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/MANISHDUTT224/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MANISHDUTT224/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MANISHDUTT224/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/MANISHDUTT224/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/MANISHDUTT224/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2411-spiral-matrix-iv](https://github.com/MANISHDUTT224/LeetCode/tree/master/2411-spiral-matrix-iv) |
@@ -1889,6 +1892,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | ------- |
 | [0062-unique-paths](https://github.com/MANISHDUTT224/LeetCode/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MANISHDUTT224/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/MANISHDUTT224/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
