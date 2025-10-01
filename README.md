@@ -1117,6 +1117,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/MANISHDUTT224/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MANISHDUTT224/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/MANISHDUTT224/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1642-water-bottles](https://github.com/MANISHDUTT224/LeetCode/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/MANISHDUTT224/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -1405,6 +1406,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0906-walking-robot-simulation](https://github.com/MANISHDUTT224/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1505-create-target-array-in-the-given-order](https://github.com/MANISHDUTT224/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
+| [1642-water-bottles](https://github.com/MANISHDUTT224/LeetCode/tree/master/1642-water-bottles) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MANISHDUTT224/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/MANISHDUTT224/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/MANISHDUTT224/LeetCode/tree/master/2048-build-array-from-permutation) |
