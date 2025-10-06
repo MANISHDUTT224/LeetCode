@@ -97,6 +97,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0783-search-in-a-binary-search-tree](https://github.com/MANISHDUTT224/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MANISHDUTT224/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/MANISHDUTT224/LeetCode/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/MANISHDUTT224/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/MANISHDUTT224/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/MANISHDUTT224/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0692-top-k-frequent-words](https://github.com/MANISHDUTT224/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MANISHDUTT224/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/MANISHDUTT224/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/MANISHDUTT224/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1014-k-closest-points-to-origin](https://github.com/MANISHDUTT224/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1304-longest-happy-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/1304-longest-happy-string) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0780-max-chunks-to-make-sorted](https://github.com/MANISHDUTT224/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/MANISHDUTT224/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/MANISHDUTT224/LeetCode/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/MANISHDUTT224/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/MANISHDUTT224/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/MANISHDUTT224/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/MANISHDUTT224/LeetCode/tree/master/0854-making-a-large-island) |
@@ -1496,6 +1499,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0543-diameter-of-binary-tree](https://github.com/MANISHDUTT224/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/MANISHDUTT224/LeetCode/tree/master/0684-redundant-connection) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/MANISHDUTT224/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0794-swim-in-rising-water](https://github.com/MANISHDUTT224/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/MANISHDUTT224/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/MANISHDUTT224/LeetCode/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/MANISHDUTT224/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -1585,6 +1589,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MANISHDUTT224/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/MANISHDUTT224/LeetCode/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/MANISHDUTT224/LeetCode/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/MANISHDUTT224/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/MANISHDUTT224/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/MANISHDUTT224/LeetCode/tree/master/0854-making-a-large-island) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/MANISHDUTT224/LeetCode/tree/master/0877-shortest-path-visiting-all-nodes) |
@@ -1622,6 +1627,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0128-longest-consecutive-sequence](https://github.com/MANISHDUTT224/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/MANISHDUTT224/LeetCode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/MANISHDUTT224/LeetCode/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/MANISHDUTT224/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/MANISHDUTT224/LeetCode/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/MANISHDUTT224/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -1652,6 +1658,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0417-pacific-atlantic-water-flow](https://github.com/MANISHDUTT224/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/MANISHDUTT224/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0787-sliding-puzzle](https://github.com/MANISHDUTT224/LeetCode/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/MANISHDUTT224/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/MANISHDUTT224/LeetCode/tree/master/0854-making-a-large-island) |
 | [0921-spiral-matrix-iii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0945-snakes-and-ladders](https://github.com/MANISHDUTT224/LeetCode/tree/master/0945-snakes-and-ladders) |
