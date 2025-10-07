@@ -110,6 +110,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1468-check-if-n-and-its-double-exist](https://github.com/MANISHDUTT224/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/MANISHDUTT224/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1612-avoid-flood-in-the-city](https://github.com/MANISHDUTT224/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MANISHDUTT224/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/MANISHDUTT224/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1325-path-with-maximum-probability](https://github.com/MANISHDUTT224/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1397-search-suggestions-system](https://github.com/MANISHDUTT224/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/MANISHDUTT224/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1612-avoid-flood-in-the-city](https://github.com/MANISHDUTT224/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/MANISHDUTT224/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/MANISHDUTT224/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/MANISHDUTT224/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1580-shuffle-the-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MANISHDUTT224/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/MANISHDUTT224/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1612-avoid-flood-in-the-city](https://github.com/MANISHDUTT224/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/MANISHDUTT224/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MANISHDUTT224/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/MANISHDUTT224/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -776,6 +779,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1502-construct-k-palindrome-strings](https://github.com/MANISHDUTT224/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1503-reducing-dishes](https://github.com/MANISHDUTT224/LeetCode/tree/master/1503-reducing-dishes) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/MANISHDUTT224/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1612-avoid-flood-in-the-city](https://github.com/MANISHDUTT224/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MANISHDUTT224/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/MANISHDUTT224/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -1002,6 +1006,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1500-count-largest-group](https://github.com/MANISHDUTT224/LeetCode/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/MANISHDUTT224/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1612-avoid-flood-in-the-city](https://github.com/MANISHDUTT224/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/MANISHDUTT224/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/MANISHDUTT224/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1694-make-sum-divisible-by-p](https://github.com/MANISHDUTT224/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
