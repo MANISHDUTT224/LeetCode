@@ -579,6 +579,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/MANISHDUTT224/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/MANISHDUTT224/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/MANISHDUTT224/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/MANISHDUTT224/LeetCode/tree/master/3430-count-days-without-meetings) |
@@ -1210,6 +1211,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2691-count-vowel-strings-in-ranges](https://github.com/MANISHDUTT224/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/MANISHDUTT224/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3034-points-that-intersect-with-cars](https://github.com/MANISHDUTT224/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/MANISHDUTT224/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
