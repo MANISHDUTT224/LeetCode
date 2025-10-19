@@ -1326,6 +1326,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/MANISHDUTT224/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/MANISHDUTT224/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/MANISHDUTT224/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/MANISHDUTT224/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/MANISHDUTT224/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MANISHDUTT224/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MANISHDUTT224/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -1549,6 +1550,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1396-count-servers-that-communicate](https://github.com/MANISHDUTT224/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/MANISHDUTT224/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/MANISHDUTT224/LeetCode/tree/master/1558-course-schedule-iv) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/MANISHDUTT224/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2035-count-sub-islands](https://github.com/MANISHDUTT224/LeetCode/tree/master/2035-count-sub-islands) |
 | [2201-valid-arrangement-of-pairs](https://github.com/MANISHDUTT224/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/MANISHDUTT224/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -1640,6 +1642,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1484-linked-list-in-binary-tree](https://github.com/MANISHDUTT224/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/MANISHDUTT224/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/MANISHDUTT224/LeetCode/tree/master/1558-course-schedule-iv) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/MANISHDUTT224/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1876-map-of-highest-peak](https://github.com/MANISHDUTT224/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/MANISHDUTT224/LeetCode/tree/master/2035-count-sub-islands) |
 | [2344-escape-the-spreading-fire](https://github.com/MANISHDUTT224/LeetCode/tree/master/2344-escape-the-spreading-fire) |
@@ -2033,6 +2036,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0875-longest-mountain-in-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0900-reordered-power-of-2](https://github.com/MANISHDUTT224/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/MANISHDUTT224/LeetCode/tree/master/1656-count-good-triplets) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/MANISHDUTT224/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MANISHDUTT224/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/MANISHDUTT224/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/MANISHDUTT224/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
