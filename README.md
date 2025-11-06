@@ -208,6 +208,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3863-power-grid-maintenance](https://github.com/MANISHDUTT224/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -640,6 +641,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [3797-design-spreadsheet](https://github.com/MANISHDUTT224/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/MANISHDUTT224/LeetCode/tree/master/3827-implement-router) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/MANISHDUTT224/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3863-power-grid-maintenance](https://github.com/MANISHDUTT224/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1126,6 +1128,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/MANISHDUTT224/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/MANISHDUTT224/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/MANISHDUTT224/LeetCode/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/MANISHDUTT224/LeetCode/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/MANISHDUTT224/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -1609,6 +1612,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/MANISHDUTT224/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3863-power-grid-maintenance](https://github.com/MANISHDUTT224/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
 | ------- |
@@ -1641,6 +1645,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/MANISHDUTT224/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3863-power-grid-maintenance](https://github.com/MANISHDUTT224/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1705,6 +1710,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/MANISHDUTT224/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3863-power-grid-maintenance](https://github.com/MANISHDUTT224/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
 | ------- |
@@ -1722,6 +1728,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2793-count-the-number-of-complete-components](https://github.com/MANISHDUTT224/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MANISHDUTT224/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/MANISHDUTT224/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3863-power-grid-maintenance](https://github.com/MANISHDUTT224/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Matrix
 |  |
 | ------- |
@@ -1958,6 +1965,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [3790-fruits-into-baskets-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/MANISHDUTT224/LeetCode/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/MANISHDUTT224/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Queue
 |  |
 | ------- |
