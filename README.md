@@ -949,6 +949,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MANISHDUTT224/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/MANISHDUTT224/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/MANISHDUTT224/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/MANISHDUTT224/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/MANISHDUTT224/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -1452,6 +1453,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0994-prison-cells-after-n-days](https://github.com/MANISHDUTT224/LeetCode/tree/master/0994-prison-cells-after-n-days) |
 | [1435-xor-queries-of-a-subarray](https://github.com/MANISHDUTT224/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/MANISHDUTT224/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/MANISHDUTT224/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/MANISHDUTT224/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/MANISHDUTT224/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MANISHDUTT224/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1902,6 +1904,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0139-word-break](https://github.com/MANISHDUTT224/LeetCode/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/MANISHDUTT224/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/MANISHDUTT224/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/MANISHDUTT224/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/MANISHDUTT224/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/MANISHDUTT224/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
