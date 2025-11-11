@@ -327,6 +327,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0436-find-right-interval](https://github.com/MANISHDUTT224/LeetCode/tree/master/0436-find-right-interval) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0472-concatenated-words](https://github.com/MANISHDUTT224/LeetCode/tree/master/0472-concatenated-words) |
+| [0474-ones-and-zeroes](https://github.com/MANISHDUTT224/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0480-sliding-window-median](https://github.com/MANISHDUTT224/LeetCode/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/MANISHDUTT224/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/MANISHDUTT224/LeetCode/tree/master/0493-reverse-pairs) |
@@ -923,6 +924,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0416-partition-equal-subset-sum](https://github.com/MANISHDUTT224/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/MANISHDUTT224/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/MANISHDUTT224/LeetCode/tree/master/0472-concatenated-words) |
+| [0474-ones-and-zeroes](https://github.com/MANISHDUTT224/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/MANISHDUTT224/LeetCode/tree/master/0494-target-sum) |
 | [0583-delete-operation-for-two-strings](https://github.com/MANISHDUTT224/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0629-k-inverse-pairs-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/0629-k-inverse-pairs-array) |
@@ -1333,6 +1335,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0449-serialize-and-deserialize-bst](https://github.com/MANISHDUTT224/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/MANISHDUTT224/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0472-concatenated-words](https://github.com/MANISHDUTT224/LeetCode/tree/master/0472-concatenated-words) |
+| [0474-ones-and-zeroes](https://github.com/MANISHDUTT224/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0539-minimum-time-difference](https://github.com/MANISHDUTT224/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/MANISHDUTT224/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/0567-permutation-in-string) |
