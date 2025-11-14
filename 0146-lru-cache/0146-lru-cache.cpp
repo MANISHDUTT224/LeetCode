@@ -1,27 +1,26 @@
 class LRUCache {
+    class Node{
+        public:
+        int key,value;
+        Node *prev,*next;
+        Node(int _key,int _value){
+            key=_key;
+            value=_value;
+            prev=nullptr;
+            next=nullptr;
+        }
+    };
 public:
-class Node{
-    public:
-    int key,value;
-    Node *prev;
-    Node *next;
-    Node(int _key,int _value){
-        key=_key;
-        value=_value;
-        prev=nullptr;
-        next=nullptr;
-    }
-};
+    map<int,Node*>mp;
     int cap;
     Node *head=new Node(-1,-1);
     Node *tail=new Node(-1,-1);
-    map<int,Node*>mp;
     LRUCache(int capacity) {
         cap=capacity;
         head->next=tail;
         tail->prev=head;
     }
-    void addnode(Node* newnode){
+    void addnode(Node *newnode){
         Node *temp=head->next;
         head->next=newnode;
         newnode->prev=head;
@@ -30,20 +29,20 @@ class Node{
     }
     void deletenode(Node *delnode){
         Node *delprev=delnode->prev;
-        Node * delnext=delnode->next;
-        delprev->next=delnext;
+        Node *delnext=delnode->next;
         delnext->prev=delprev;
+        delprev->next=delnext;
     }
-
+    
     int get(int key) {
         if(mp.find(key)!=mp.end()){
             Node *resnode=mp[key];
-            int res=resnode->value;
+            int resvalue=resnode->value;
             mp.erase(key);
             deletenode(resnode);
             addnode(resnode);
             mp[key]=head->next;
-            return res;
+            return resvalue;
         }
         return -1;
     }
