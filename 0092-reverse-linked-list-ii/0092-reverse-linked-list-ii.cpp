@@ -14,18 +14,19 @@ public:
         if(!head||left==right){
             return head;
         }
-        ListNode *dummy=new ListNode(0);
-        dummy->next=head;
-        ListNode *prev=dummy;
+        ListNode *dummyNode=new ListNode(0);
+        dummyNode->next=head;
+        ListNode *prev=dummyNode;
         for(int i=0;i<left-1;i++){
             prev=prev->next;
         }
         ListNode *curr=prev->next;
-        for(int i=0;i<right-left;i++){
+        while(curr){
             ListNode *temp=curr->next;
             curr->next=temp->next;
             temp->next=prev->next;
             prev->next=temp;
+
         }
         return dummy->next;
     }
