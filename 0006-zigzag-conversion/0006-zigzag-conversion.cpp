@@ -1,15 +1,14 @@
 class Solution {
 public:
     string convert(string s, int numRows) {
-        cin.tie(0);
-        cout.tie(0);
-        ios::sync_with_stdio(false);
-        int idx=0,d=1;
+        int n=s.size();
         if(numRows==1){
             return s;
         }
+        int idx=0,d=1;
         vector<vector<char>>rows(numRows);
-        for(char c:s){
+        for(int i=0;i<s.size();i++){
+            char c=s[i];
             rows[idx].push_back(c);
             if(idx==0){
                 d=1;
@@ -19,12 +18,12 @@ public:
             }
             idx+=d;
         }
-        string result;
+        string res="";
         for(auto row:rows){
-            for(char c:row){
-                result+=c;
+            for(auto c:row){
+                res+=c;
             }
         }
-        return result;
+        return res;
     }
 };
