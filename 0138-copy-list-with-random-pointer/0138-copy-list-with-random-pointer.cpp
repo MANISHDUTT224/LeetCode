@@ -20,8 +20,8 @@ public:
         if(!head){
             return nullptr;
         }
-        unordered_map<Node*,Node*>old_to_new;
-        Node* curr=head;
+        map<Node*,Node*>old_to_new;
+        Node *curr=head;
         while(curr){
             old_to_new[curr]=new Node(curr->val);
             curr=curr->next;
