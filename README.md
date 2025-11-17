@@ -427,6 +427,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1505-create-target-array-in-the-given-order](https://github.com/MANISHDUTT224/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/MANISHDUTT224/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/MANISHDUTT224/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MANISHDUTT224/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
