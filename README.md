@@ -353,6 +353,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0679-24-game](https://github.com/MANISHDUTT224/LeetCode/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/MANISHDUTT224/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0699-falling-squares](https://github.com/MANISHDUTT224/LeetCode/tree/master/0699-falling-squares) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/MANISHDUTT224/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/MANISHDUTT224/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0731-my-calendar-ii) |
