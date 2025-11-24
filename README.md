@@ -390,6 +390,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1006-vowel-spellchecker](https://github.com/MANISHDUTT224/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1014-k-closest-points-to-origin](https://github.com/MANISHDUTT224/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/MANISHDUTT224/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/MANISHDUTT224/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1025-minimum-cost-for-tickets](https://github.com/MANISHDUTT224/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1031-add-to-array-form-of-integer](https://github.com/MANISHDUTT224/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/MANISHDUTT224/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -1488,6 +1489,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0877-shortest-path-visiting-all-nodes](https://github.com/MANISHDUTT224/LeetCode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/MANISHDUTT224/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0994-prison-cells-after-n-days](https://github.com/MANISHDUTT224/LeetCode/tree/master/0994-prison-cells-after-n-days) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/MANISHDUTT224/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1435-xor-queries-of-a-subarray](https://github.com/MANISHDUTT224/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/MANISHDUTT224/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/MANISHDUTT224/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
