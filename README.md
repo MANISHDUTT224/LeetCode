@@ -1066,6 +1066,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/MANISHDUTT224/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0994-prison-cells-after-n-days](https://github.com/MANISHDUTT224/LeetCode/tree/master/0994-prison-cells-after-n-days) |
 | [1006-vowel-spellchecker](https://github.com/MANISHDUTT224/LeetCode/tree/master/1006-vowel-spellchecker) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/MANISHDUTT224/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/MANISHDUTT224/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/MANISHDUTT224/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/MANISHDUTT224/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -1201,6 +1202,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0963-three-equal-parts](https://github.com/MANISHDUTT224/LeetCode/tree/master/0963-three-equal-parts) |
 | [0994-prison-cells-after-n-days](https://github.com/MANISHDUTT224/LeetCode/tree/master/0994-prison-cells-after-n-days) |
 | [1014-k-closest-points-to-origin](https://github.com/MANISHDUTT224/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/MANISHDUTT224/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/MANISHDUTT224/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/MANISHDUTT224/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1240-stone-game-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/1240-stone-game-ii) |
