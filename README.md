@@ -192,6 +192,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2300-construct-string-with-repeat-limit](https://github.com/MANISHDUTT224/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/MANISHDUTT224/LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/MANISHDUTT224/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2402-meeting-rooms-iii](https://github.com/MANISHDUTT224/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/MANISHDUTT224/LeetCode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2429-design-a-food-rating-system](https://github.com/MANISHDUTT224/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/MANISHDUTT224/LeetCode/tree/master/2434-design-a-number-container-system) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/MANISHDUTT224/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/MANISHDUTT224/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/MANISHDUTT224/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2402-meeting-rooms-iii](https://github.com/MANISHDUTT224/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2411-spiral-matrix-iv](https://github.com/MANISHDUTT224/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/MANISHDUTT224/LeetCode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2429-design-a-food-rating-system](https://github.com/MANISHDUTT224/LeetCode/tree/master/2429-design-a-food-rating-system) |
@@ -802,6 +804,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MANISHDUTT224/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MANISHDUTT224/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/MANISHDUTT224/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2402-meeting-rooms-iii](https://github.com/MANISHDUTT224/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/MANISHDUTT224/LeetCode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MANISHDUTT224/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/MANISHDUTT224/LeetCode/tree/master/2479-meeting-rooms-iii) |
@@ -1158,6 +1161,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2300-construct-string-with-repeat-limit](https://github.com/MANISHDUTT224/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/MANISHDUTT224/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/MANISHDUTT224/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2402-meeting-rooms-iii](https://github.com/MANISHDUTT224/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/MANISHDUTT224/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/MANISHDUTT224/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/MANISHDUTT224/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -1626,6 +1630,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2288-count-operations-to-obtain-zero](https://github.com/MANISHDUTT224/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/MANISHDUTT224/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2402-meeting-rooms-iii](https://github.com/MANISHDUTT224/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/MANISHDUTT224/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2411-spiral-matrix-iv](https://github.com/MANISHDUTT224/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2470-removing-stars-from-a-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/2470-removing-stars-from-a-string) |
