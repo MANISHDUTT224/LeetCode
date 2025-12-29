@@ -1100,6 +1100,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0594-longest-harmonious-subsequence](https://github.com/MANISHDUTT224/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MANISHDUTT224/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/MANISHDUTT224/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0756-pyramid-transition-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/MANISHDUTT224/LeetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/MANISHDUTT224/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -1443,6 +1444,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0592-fraction-addition-and-subtraction](https://github.com/MANISHDUTT224/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/MANISHDUTT224/LeetCode/tree/master/0664-strange-printer) |
 | [0692-top-k-frequent-words](https://github.com/MANISHDUTT224/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0756-pyramid-transition-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/MANISHDUTT224/LeetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/0812-rotate-string) |
@@ -1565,6 +1567,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0287-find-the-duplicate-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/MANISHDUTT224/LeetCode/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/MANISHDUTT224/LeetCode/tree/master/0476-number-complement) |
+| [0756-pyramid-transition-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/MANISHDUTT224/LeetCode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/MANISHDUTT224/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0994-prison-cells-after-n-days](https://github.com/MANISHDUTT224/LeetCode/tree/master/0994-prison-cells-after-n-days) |
@@ -2001,6 +2004,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0301-remove-invalid-parentheses](https://github.com/MANISHDUTT224/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/MANISHDUTT224/LeetCode/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/MANISHDUTT224/LeetCode/tree/master/0679-24-game) |
+| [0756-pyramid-transition-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [1160-letter-tile-possibilities](https://github.com/MANISHDUTT224/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/MANISHDUTT224/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/MANISHDUTT224/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
