@@ -371,6 +371,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0794-swim-in-rising-water](https://github.com/MANISHDUTT224/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/MANISHDUTT224/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/MANISHDUTT224/LeetCode/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/MANISHDUTT224/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/MANISHDUTT224/LeetCode/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/MANISHDUTT224/LeetCode/tree/master/0859-design-circular-deque) |
 | [0875-longest-mountain-in-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/0875-longest-mountain-in-array) |
@@ -1104,6 +1105,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0768-partition-labels](https://github.com/MANISHDUTT224/LeetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/MANISHDUTT224/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0840-magic-squares-in-grid](https://github.com/MANISHDUTT224/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/MANISHDUTT224/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/MANISHDUTT224/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/MANISHDUTT224/LeetCode/tree/master/0906-walking-robot-simulation) |
@@ -1253,6 +1255,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0797-rabbits-in-forest](https://github.com/MANISHDUTT224/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/MANISHDUTT224/LeetCode/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/MANISHDUTT224/LeetCode/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/MANISHDUTT224/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/MANISHDUTT224/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/MANISHDUTT224/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0963-three-equal-parts](https://github.com/MANISHDUTT224/LeetCode/tree/master/0963-three-equal-parts) |
@@ -1893,6 +1896,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0498-diagonal-traverse](https://github.com/MANISHDUTT224/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0787-sliding-puzzle](https://github.com/MANISHDUTT224/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/MANISHDUTT224/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [0840-magic-squares-in-grid](https://github.com/MANISHDUTT224/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/MANISHDUTT224/LeetCode/tree/master/0854-making-a-large-island) |
 | [0921-spiral-matrix-iii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0945-snakes-and-ladders](https://github.com/MANISHDUTT224/LeetCode/tree/master/0945-snakes-and-ladders) |
