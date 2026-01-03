@@ -1015,6 +1015,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1250-longest-common-subsequence](https://github.com/MANISHDUTT224/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/MANISHDUTT224/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MANISHDUTT224/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/MANISHDUTT224/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1503-reducing-dishes](https://github.com/MANISHDUTT224/LeetCode/tree/master/1503-reducing-dishes) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MANISHDUTT224/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/MANISHDUTT224/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
