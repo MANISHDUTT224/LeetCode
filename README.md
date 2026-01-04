@@ -423,6 +423,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MANISHDUTT224/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/MANISHDUTT224/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1372-check-if-it-is-a-good-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
+| [1390-four-divisors](https://github.com/MANISHDUTT224/LeetCode/tree/master/1390-four-divisors) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/MANISHDUTT224/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/MANISHDUTT224/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1397-search-suggestions-system](https://github.com/MANISHDUTT224/LeetCode/tree/master/1397-search-suggestions-system) |
@@ -1271,6 +1272,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1031-add-to-array-form-of-integer](https://github.com/MANISHDUTT224/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1240-stone-game-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/1240-stone-game-ii) |
 | [1372-check-if-it-is-a-good-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
+| [1390-four-divisors](https://github.com/MANISHDUTT224/LeetCode/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MANISHDUTT224/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MANISHDUTT224/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MANISHDUTT224/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
