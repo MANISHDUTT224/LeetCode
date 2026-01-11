@@ -297,6 +297,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MANISHDUTT224/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/MANISHDUTT224/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MANISHDUTT224/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MANISHDUTT224/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -981,6 +982,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0062-unique-paths](https://github.com/MANISHDUTT224/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/MANISHDUTT224/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/MANISHDUTT224/LeetCode/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/MANISHDUTT224/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/MANISHDUTT224/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/MANISHDUTT224/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MANISHDUTT224/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -1685,6 +1687,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0032-longest-valid-parentheses](https://github.com/MANISHDUTT224/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/MANISHDUTT224/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MANISHDUTT224/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/MANISHDUTT224/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/MANISHDUTT224/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MANISHDUTT224/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/MANISHDUTT224/LeetCode/tree/master/0155-min-stack) |
@@ -1914,6 +1917,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0073-set-matrix-zeroes](https://github.com/MANISHDUTT224/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/MANISHDUTT224/LeetCode/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/MANISHDUTT224/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/MANISHDUTT224/LeetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/MANISHDUTT224/LeetCode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -2178,6 +2182,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MANISHDUTT224/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MANISHDUTT224/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/MANISHDUTT224/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/MANISHDUTT224/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0780-max-chunks-to-make-sorted](https://github.com/MANISHDUTT224/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
