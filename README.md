@@ -158,6 +158,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [3427-special-array-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3427-special-array-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/MANISHDUTT224/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -652,6 +653,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/MANISHDUTT224/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/MANISHDUTT224/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -2143,6 +2145,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0731-my-calendar-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0731-my-calendar-ii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/MANISHDUTT224/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3454-separate-squares-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/MANISHDUTT224/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
@@ -2404,4 +2407,8 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | ------- |
 | [0826-soup-servings](https://github.com/MANISHDUTT224/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/MANISHDUTT224/LeetCode/tree/master/0867-new-21-game) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
