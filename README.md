@@ -616,6 +616,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/MANISHDUTT224/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2915-count-of-interesting-subarrays](https://github.com/MANISHDUTT224/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/MANISHDUTT224/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/MANISHDUTT224/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3001-apply-operations-to-maximize-score](https://github.com/MANISHDUTT224/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3034-points-that-intersect-with-cars](https://github.com/MANISHDUTT224/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3074-apple-redistribution-into-boxes](https://github.com/MANISHDUTT224/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -1217,6 +1218,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2856-count-complete-subarrays-in-an-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/MANISHDUTT224/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/MANISHDUTT224/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/MANISHDUTT224/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3034-points-that-intersect-with-cars](https://github.com/MANISHDUTT224/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3227-find-missing-and-repeated-values](https://github.com/MANISHDUTT224/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/MANISHDUTT224/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -2319,6 +2321,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2215-finding-3-digit-even-numbers](https://github.com/MANISHDUTT224/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/MANISHDUTT224/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/MANISHDUTT224/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/MANISHDUTT224/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2998-count-symmetric-integers](https://github.com/MANISHDUTT224/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
