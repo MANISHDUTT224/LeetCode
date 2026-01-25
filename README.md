@@ -505,6 +505,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1972-rotating-the-box](https://github.com/MANISHDUTT224/LeetCode/tree/master/1972-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/MANISHDUTT224/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [1983-maximum-population-year](https://github.com/MANISHDUTT224/LeetCode/tree/master/1983-maximum-population-year) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MANISHDUTT224/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MANISHDUTT224/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MANISHDUTT224/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MANISHDUTT224/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -829,6 +830,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/MANISHDUTT224/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MANISHDUTT224/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/MANISHDUTT224/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/MANISHDUTT224/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MANISHDUTT224/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -2272,6 +2274,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MANISHDUTT224/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/MANISHDUTT224/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/MANISHDUTT224/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MANISHDUTT224/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/MANISHDUTT224/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/MANISHDUTT224/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/MANISHDUTT224/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
