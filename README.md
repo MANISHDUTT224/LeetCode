@@ -422,6 +422,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/MANISHDUTT224/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/MANISHDUTT224/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1185-find-in-mountain-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/1185-find-in-mountain-array) |
+| [1200-minimum-absolute-difference](https://github.com/MANISHDUTT224/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/MANISHDUTT224/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1240-stone-game-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -819,6 +820,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0982-minimum-increment-to-make-array-unique](https://github.com/MANISHDUTT224/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1014-k-closest-points-to-origin](https://github.com/MANISHDUTT224/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/MANISHDUTT224/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1200-minimum-absolute-difference](https://github.com/MANISHDUTT224/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/MANISHDUTT224/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MANISHDUTT224/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
