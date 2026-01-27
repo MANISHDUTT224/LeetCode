@@ -226,6 +226,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/MANISHDUTT224/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3863-power-grid-maintenance](https://github.com/MANISHDUTT224/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
@@ -1867,6 +1868,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/MANISHDUTT224/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/MANISHDUTT224/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -2453,4 +2455,8 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3454-separate-squares-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/MANISHDUTT224/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
