@@ -1292,6 +1292,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/MANISHDUTT224/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3713-longest-balanced-substring-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -1478,6 +1479,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [3643-zero-array-transformation-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/MANISHDUTT224/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3714-longest-balanced-substring-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -1647,6 +1649,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [3637-count-number-of-balanced-permutations](https://github.com/MANISHDUTT224/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3713-longest-balanced-substring-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/MANISHDUTT224/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
