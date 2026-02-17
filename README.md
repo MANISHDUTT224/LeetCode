@@ -1669,6 +1669,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0268-missing-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/MANISHDUTT224/LeetCode/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/MANISHDUTT224/LeetCode/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/MANISHDUTT224/LeetCode/tree/master/0476-number-complement) |
 | [0756-pyramid-transition-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/MANISHDUTT224/LeetCode/tree/master/0877-shortest-path-visiting-all-nodes) |
@@ -2133,6 +2134,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0046-permutations](https://github.com/MANISHDUTT224/LeetCode/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/MANISHDUTT224/LeetCode/tree/master/0079-word-search) |
 | [0301-remove-invalid-parentheses](https://github.com/MANISHDUTT224/LeetCode/tree/master/0301-remove-invalid-parentheses) |
+| [0401-binary-watch](https://github.com/MANISHDUTT224/LeetCode/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/MANISHDUTT224/LeetCode/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/MANISHDUTT224/LeetCode/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0756-pyramid-transition-matrix) |
