@@ -1671,6 +1671,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0342-power-of-four](https://github.com/MANISHDUTT224/LeetCode/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/MANISHDUTT224/LeetCode/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/MANISHDUTT224/LeetCode/tree/master/0476-number-complement) |
+| [0693-binary-number-with-alternating-bits](https://github.com/MANISHDUTT224/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/MANISHDUTT224/LeetCode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/MANISHDUTT224/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
