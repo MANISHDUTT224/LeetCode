@@ -771,6 +771,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0567-permutation-in-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/MANISHDUTT224/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0696-count-binary-substrings](https://github.com/MANISHDUTT224/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/MANISHDUTT224/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/MANISHDUTT224/LeetCode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/MANISHDUTT224/LeetCode/tree/master/0868-push-dominoes) |
@@ -1539,6 +1540,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0592-fraction-addition-and-subtraction](https://github.com/MANISHDUTT224/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/MANISHDUTT224/LeetCode/tree/master/0664-strange-printer) |
 | [0692-top-k-frequent-words](https://github.com/MANISHDUTT224/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0696-count-binary-substrings](https://github.com/MANISHDUTT224/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/MANISHDUTT224/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/MANISHDUTT224/LeetCode/tree/master/0768-partition-labels) |
