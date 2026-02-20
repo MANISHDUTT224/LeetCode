@@ -832,6 +832,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0692-top-k-frequent-words](https://github.com/MANISHDUTT224/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/MANISHDUTT224/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0759-set-intersection-size-at-least-two](https://github.com/MANISHDUTT224/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/0761-special-binary-string) |
 | [0778-reorganize-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/MANISHDUTT224/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0900-reordered-power-of-2](https://github.com/MANISHDUTT224/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -1543,6 +1544,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0696-count-binary-substrings](https://github.com/MANISHDUTT224/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/MANISHDUTT224/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/MANISHDUTT224/LeetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/0812-rotate-string) |
@@ -2379,6 +2381,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0240-search-a-2d-matrix-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/MANISHDUTT224/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/MANISHDUTT224/LeetCode/tree/master/0493-reverse-pairs) |
+| [0761-special-binary-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/0761-special-binary-string) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/MANISHDUTT224/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1014-k-closest-points-to-origin](https://github.com/MANISHDUTT224/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/MANISHDUTT224/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
