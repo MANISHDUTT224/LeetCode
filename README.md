@@ -1337,6 +1337,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0670-maximum-swap](https://github.com/MANISHDUTT224/LeetCode/tree/master/0670-maximum-swap) |
 | [0679-24-game](https://github.com/MANISHDUTT224/LeetCode/tree/master/0679-24-game) |
 | [0755-reach-a-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0755-reach-a-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/MANISHDUTT224/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/MANISHDUTT224/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/MANISHDUTT224/LeetCode/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/MANISHDUTT224/LeetCode/tree/master/0830-largest-triangle-area) |
@@ -1677,6 +1678,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0476-number-complement](https://github.com/MANISHDUTT224/LeetCode/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/MANISHDUTT224/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/0756-pyramid-transition-matrix) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/MANISHDUTT224/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/MANISHDUTT224/LeetCode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/MANISHDUTT224/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0994-prison-cells-after-n-days](https://github.com/MANISHDUTT224/LeetCode/tree/master/0994-prison-cells-after-n-days) |
