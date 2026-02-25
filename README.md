@@ -445,6 +445,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/MANISHDUTT224/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MANISHDUTT224/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MANISHDUTT224/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/MANISHDUTT224/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1372-check-if-it-is-a-good-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1390-four-divisors](https://github.com/MANISHDUTT224/LeetCode/tree/master/1390-four-divisors) |
@@ -846,6 +847,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1256-rank-transform-of-an-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/MANISHDUTT224/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MANISHDUTT224/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MANISHDUTT224/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1397-search-suggestions-system](https://github.com/MANISHDUTT224/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MANISHDUTT224/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -1688,6 +1690,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0934-bitwise-ors-of-subarrays](https://github.com/MANISHDUTT224/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0994-prison-cells-after-n-days](https://github.com/MANISHDUTT224/LeetCode/tree/master/0994-prison-cells-after-n-days) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/MANISHDUTT224/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MANISHDUTT224/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/MANISHDUTT224/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/MANISHDUTT224/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/MANISHDUTT224/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -2106,6 +2109,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0982-minimum-increment-to-make-array-unique](https://github.com/MANISHDUTT224/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1160-letter-tile-possibilities](https://github.com/MANISHDUTT224/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/MANISHDUTT224/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MANISHDUTT224/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/MANISHDUTT224/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/MANISHDUTT224/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/MANISHDUTT224/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
