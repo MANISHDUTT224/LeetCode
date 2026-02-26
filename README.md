@@ -1575,6 +1575,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/MANISHDUTT224/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MANISHDUTT224/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1397-search-suggestions-system](https://github.com/MANISHDUTT224/LeetCode/tree/master/1397-search-suggestions-system) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/MANISHDUTT224/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/MANISHDUTT224/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/MANISHDUTT224/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/MANISHDUTT224/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -1691,6 +1692,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0994-prison-cells-after-n-days](https://github.com/MANISHDUTT224/LeetCode/tree/master/0994-prison-cells-after-n-days) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/MANISHDUTT224/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MANISHDUTT224/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/MANISHDUTT224/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1435-xor-queries-of-a-subarray](https://github.com/MANISHDUTT224/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/MANISHDUTT224/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/MANISHDUTT224/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -1739,6 +1741,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0735-asteroid-collision](https://github.com/MANISHDUTT224/LeetCode/tree/master/0735-asteroid-collision) |
 | [0906-walking-robot-simulation](https://github.com/MANISHDUTT224/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/MANISHDUTT224/LeetCode/tree/master/0921-spiral-matrix-iii) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/MANISHDUTT224/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1505-create-target-array-in-the-given-order](https://github.com/MANISHDUTT224/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/MANISHDUTT224/LeetCode/tree/master/1642-water-bottles) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MANISHDUTT224/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
