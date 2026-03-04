@@ -474,6 +474,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/MANISHDUTT224/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/MANISHDUTT224/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/1580-shuffle-the-array) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MANISHDUTT224/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/MANISHDUTT224/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/MANISHDUTT224/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -2063,6 +2064,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/MANISHDUTT224/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/MANISHDUTT224/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/MANISHDUTT224/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/MANISHDUTT224/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1876-map-of-highest-peak](https://github.com/MANISHDUTT224/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1895-largest-magic-square](https://github.com/MANISHDUTT224/LeetCode/tree/master/1895-largest-magic-square) |
