@@ -1600,6 +1600,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/MANISHDUTT224/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/MANISHDUTT224/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/MANISHDUTT224/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/MANISHDUTT224/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MANISHDUTT224/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MANISHDUTT224/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
