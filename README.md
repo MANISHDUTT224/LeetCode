@@ -1126,6 +1126,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/MANISHDUTT224/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/MANISHDUTT224/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/MANISHDUTT224/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -1484,6 +1485,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2691-count-vowel-strings-in-ranges](https://github.com/MANISHDUTT224/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/MANISHDUTT224/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3034-points-that-intersect-with-cars](https://github.com/MANISHDUTT224/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/MANISHDUTT224/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3427-special-array-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MANISHDUTT224/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
