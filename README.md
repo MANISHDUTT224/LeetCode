@@ -610,6 +610,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MANISHDUTT224/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/MANISHDUTT224/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/MANISHDUTT224/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/MANISHDUTT224/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2529-range-product-queries-of-powers](https://github.com/MANISHDUTT224/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/MANISHDUTT224/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -1716,6 +1717,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2470-removing-stars-from-a-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/MANISHDUTT224/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/MANISHDUTT224/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2573-find-the-string-with-lcp](https://github.com/MANISHDUTT224/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2580-circular-sentence](https://github.com/MANISHDUTT224/LeetCode/tree/master/2580-circular-sentence) |
