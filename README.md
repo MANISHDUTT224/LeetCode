@@ -772,6 +772,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/MANISHDUTT224/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/MANISHDUTT224/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/MANISHDUTT224/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/MANISHDUTT224/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/MANISHDUTT224/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -1373,6 +1374,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/MANISHDUTT224/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/MANISHDUTT224/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/MANISHDUTT224/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/MANISHDUTT224/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/MANISHDUTT224/LeetCode/tree/master/3827-implement-router) |
@@ -1508,6 +1510,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/MANISHDUTT224/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/MANISHDUTT224/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/MANISHDUTT224/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/MANISHDUTT224/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MANISHDUTT224/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/MANISHDUTT224/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Prefix Sum
