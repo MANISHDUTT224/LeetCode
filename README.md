@@ -547,6 +547,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/MANISHDUTT224/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2054-two-best-non-overlapping-events](https://github.com/MANISHDUTT224/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/MANISHDUTT224/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/MANISHDUTT224/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/MANISHDUTT224/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2089-maximum-matrix-sum](https://github.com/MANISHDUTT224/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/2107-find-unique-binary-string) |
@@ -1008,6 +1009,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1975-maximum-matrix-sum](https://github.com/MANISHDUTT224/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/MANISHDUTT224/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-maximum-matrix-sum](https://github.com/MANISHDUTT224/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MANISHDUTT224/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/MANISHDUTT224/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
