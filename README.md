@@ -604,6 +604,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2432-number-of-zero-filled-subarrays](https://github.com/MANISHDUTT224/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/MANISHDUTT224/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/MANISHDUTT224/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/MANISHDUTT224/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/MANISHDUTT224/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2465-shifting-letters-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MANISHDUTT224/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -1724,6 +1725,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/MANISHDUTT224/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2429-design-a-food-rating-system](https://github.com/MANISHDUTT224/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/MANISHDUTT224/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/MANISHDUTT224/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/2465-shifting-letters-ii) |
@@ -2386,6 +2388,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/MANISHDUTT224/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/MANISHDUTT224/LeetCode/tree/master/1397-search-suggestions-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/MANISHDUTT224/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/MANISHDUTT224/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/MANISHDUTT224/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
