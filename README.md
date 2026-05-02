@@ -1137,6 +1137,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0664-strange-printer](https://github.com/MANISHDUTT224/LeetCode/tree/master/0664-strange-printer) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/MANISHDUTT224/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/MANISHDUTT224/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0788-rotated-digits](https://github.com/MANISHDUTT224/LeetCode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/MANISHDUTT224/LeetCode/tree/master/0799-champagne-tower) |
 | [0806-domino-and-tromino-tiling](https://github.com/MANISHDUTT224/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/MANISHDUTT224/LeetCode/tree/master/0826-soup-servings) |
@@ -1436,6 +1437,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0679-24-game](https://github.com/MANISHDUTT224/LeetCode/tree/master/0679-24-game) |
 | [0755-reach-a-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/0755-reach-a-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/MANISHDUTT224/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/MANISHDUTT224/LeetCode/tree/master/0788-rotated-digits) |
 | [0797-rabbits-in-forest](https://github.com/MANISHDUTT224/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/MANISHDUTT224/LeetCode/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/MANISHDUTT224/LeetCode/tree/master/0830-largest-triangle-area) |
