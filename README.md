@@ -1669,6 +1669,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0761-special-binary-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/MANISHDUTT224/LeetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/0778-reorganize-string) |
+| [0796-rotate-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/MANISHDUTT224/LeetCode/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/MANISHDUTT224/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -2395,6 +2396,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | ------- |
 | [0214-shortest-palindrome](https://github.com/MANISHDUTT224/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/MANISHDUTT224/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MANISHDUTT224/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
