@@ -502,6 +502,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1635-number-of-good-pairs](https://github.com/MANISHDUTT224/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/MANISHDUTT224/LeetCode/tree/master/1656-count-good-triplets) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/MANISHDUTT224/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/MANISHDUTT224/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/MANISHDUTT224/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/MANISHDUTT224/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -914,6 +915,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1503-reducing-dishes](https://github.com/MANISHDUTT224/LeetCode/tree/master/1503-reducing-dishes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MANISHDUTT224/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/MANISHDUTT224/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/MANISHDUTT224/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/MANISHDUTT224/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -1018,6 +1020,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/MANISHDUTT224/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1612-avoid-flood-in-the-city](https://github.com/MANISHDUTT224/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/MANISHDUTT224/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/MANISHDUTT224/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/MANISHDUTT224/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/MANISHDUTT224/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
