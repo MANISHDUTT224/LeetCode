@@ -583,6 +583,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/MANISHDUTT224/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2155-find-missing-observations](https://github.com/MANISHDUTT224/LeetCode/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MANISHDUTT224/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/MANISHDUTT224/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2164-two-best-non-overlapping-events](https://github.com/MANISHDUTT224/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2169-simple-bank-system](https://github.com/MANISHDUTT224/LeetCode/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/MANISHDUTT224/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -874,6 +875,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1923-sentence-similarity-iii](https://github.com/MANISHDUTT224/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/MANISHDUTT224/LeetCode/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MANISHDUTT224/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/MANISHDUTT224/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MANISHDUTT224/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MANISHDUTT224/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -1972,6 +1974,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2132-convert-1d-array-into-2d-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MANISHDUTT224/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2155-find-missing-observations](https://github.com/MANISHDUTT224/LeetCode/tree/master/2155-find-missing-observations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/MANISHDUTT224/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/MANISHDUTT224/LeetCode/tree/master/2169-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/MANISHDUTT224/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2232-adding-spaces-to-a-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
