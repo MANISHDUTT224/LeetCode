@@ -882,6 +882,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1923-sentence-similarity-iii](https://github.com/MANISHDUTT224/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/MANISHDUTT224/LeetCode/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MANISHDUTT224/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MANISHDUTT224/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/MANISHDUTT224/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MANISHDUTT224/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -1149,6 +1150,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0859-design-circular-deque](https://github.com/MANISHDUTT224/LeetCode/tree/master/0859-design-circular-deque) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MANISHDUTT224/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1484-linked-list-in-binary-tree](https://github.com/MANISHDUTT224/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MANISHDUTT224/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MANISHDUTT224/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/MANISHDUTT224/LeetCode/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2411-spiral-matrix-iv](https://github.com/MANISHDUTT224/LeetCode/tree/master/2411-spiral-matrix-iv) |
@@ -2058,6 +2060,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1818-maximum-score-from-removing-substrings](https://github.com/MANISHDUTT224/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/MANISHDUTT224/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MANISHDUTT224/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MANISHDUTT224/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2211-count-collisions-on-a-road](https://github.com/MANISHDUTT224/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/MANISHDUTT224/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
