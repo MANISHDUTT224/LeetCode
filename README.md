@@ -882,6 +882,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1923-sentence-similarity-iii](https://github.com/MANISHDUTT224/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/MANISHDUTT224/LeetCode/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MANISHDUTT224/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MANISHDUTT224/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MANISHDUTT224/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/MANISHDUTT224/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MANISHDUTT224/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -1150,6 +1151,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0859-design-circular-deque](https://github.com/MANISHDUTT224/LeetCode/tree/master/0859-design-circular-deque) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MANISHDUTT224/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1484-linked-list-in-binary-tree](https://github.com/MANISHDUTT224/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MANISHDUTT224/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MANISHDUTT224/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MANISHDUTT224/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/MANISHDUTT224/LeetCode/tree/master/2374-steps-to-make-array-non-decreasing) |
