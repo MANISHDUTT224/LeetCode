@@ -533,6 +533,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1813-maximum-erasure-value](https://github.com/MANISHDUTT224/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/MANISHDUTT224/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-find-the-highest-altitude](https://github.com/MANISHDUTT224/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/MANISHDUTT224/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/MANISHDUTT224/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1840-maximum-building-height](https://github.com/MANISHDUTT224/LeetCode/tree/master/1840-maximum-building-height) |
 | [1848-sum-of-unique-elements](https://github.com/MANISHDUTT224/LeetCode/tree/master/1848-sum-of-unique-elements) |
@@ -961,6 +962,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/MANISHDUTT224/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/MANISHDUTT224/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/MANISHDUTT224/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1833-maximum-ice-cream-bars](https://github.com/MANISHDUTT224/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/MANISHDUTT224/LeetCode/tree/master/1840-maximum-building-height) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MANISHDUTT224/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -1075,6 +1077,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1727-largest-submatrix-with-rearrangements](https://github.com/MANISHDUTT224/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MANISHDUTT224/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1833-maximum-ice-cream-bars](https://github.com/MANISHDUTT224/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/MANISHDUTT224/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/MANISHDUTT224/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -2840,6 +2843,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0274-h-index](https://github.com/MANISHDUTT224/LeetCode/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/MANISHDUTT224/LeetCode/tree/master/0561-array-partition) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MANISHDUTT224/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/MANISHDUTT224/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 ## Interactive
 |  |
 | ------- |
