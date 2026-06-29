@@ -558,6 +558,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1927-maximum-ascending-subarray-sum](https://github.com/MANISHDUTT224/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/MANISHDUTT224/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/MANISHDUTT224/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MANISHDUTT224/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/MANISHDUTT224/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/MANISHDUTT224/LeetCode/tree/master/1972-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/MANISHDUTT224/LeetCode/tree/master/1975-maximum-matrix-sum) |
@@ -1840,6 +1841,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MANISHDUTT224/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/MANISHDUTT224/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/MANISHDUTT224/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MANISHDUTT224/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/MANISHDUTT224/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/MANISHDUTT224/LeetCode/tree/master/2032-largest-odd-number-in-string) |
